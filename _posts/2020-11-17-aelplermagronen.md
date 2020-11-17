@@ -1,3 +1,10 @@
+---
+toc: true
+layout: post
+description: Älplermagronen
+categories: [schweiz]
+title: Älplermagronen
+---
 # Älplermagronen
 
 ## Zutaten
