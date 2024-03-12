@@ -48,20 +48,7 @@ ingredients:
 
 
 directions:
-- Die Linsen mit Salz, Pfeffer, Garam Masala und Hackfleisch in eine Schüssel geben,
-mischen und mit sauberen Händen zerkleinern. Die Mischung in zwei Hälften teilen,
-dann mit nassen Händen jede Hälfte schnell zusammendrücken und zu 6 dicken Fingern formen
-Diese in die Pfanne mit 1 Esslöffel Öl geben und wenden, wenn sie goldbraun sind.
-- 1 Becher Reis, 2 Becher kochendes Wasser und die Kardamomkapseln in den Topf geben
-Kardamomschoten in die Kasserolle geben, dann die Bohnen halbieren und dazugeben und den Deckel aufsetzen.
-Tomaten in den Mixer geben, den geschälten Ingwer, die geschnittenen Frühlingszwiebeln
-die Hälfte der Chilischoten, die Korianderstängel, Kurkuma, Honig, Currypaste und Kokosnussmilch
-in die Kofta-Pfanne geben, zum Kochen bringen und köcheln lassen,
-dann köcheln lassen und nach Geschmack würzen
-- Den Deckel vom Reis nehmen, die Erbsen hinzufügen, alles vermengen und noch ein paar Minuten köcheln lassen.
-Minuten ziehen lassen. Die ungekochten Poppadoms aufbrechen und in der
-Mikrowelle (800 W) für ein oder zwei Minuten aufblähen.
-Chili und die Korianderblätter in feine Scheiben schneiden und über das Curry streuen.
-Joghurt beträufeln und mit Zitronenspalten, Poppadoms und Reis, Bohnen und Erbsen servieren.
-und Erbsen
+- Die Linsen mit Salz, Pfeffer, Garam Masala und Hackfleisch in eine Schüssel geben, mischen und mit sauberen Händen zerkleinern. Die Mischung in zwei Hälften teilen, dann mit nassen Händen jede Hälfte schnell zusammendrücken und zu 6 dicken Fingern formen Diese in die Pfanne mit 1 Esslöffel Öl geben und wenden, wenn sie goldbraun sind.
+- 1 Becher Reis, 2 Becher kochendes Wasser und die Kardamomkapseln in den Topf geben Kardamomschoten in die Kasserolle geben, dann die Bohnen halbieren und dazugeben und den Deckel aufsetzen. Tomaten in den Mixer geben, den geschälten Ingwer, die geschnittenen Frühlingszwiebeln die Hälfte der Chilischoten, die Korianderstängel, Kurkuma, Honig, Currypaste und Kokosnussmilch in die Kofta-Pfanne geben, zum Kochen bringen und köcheln lassen, dann köcheln lassen und nach Geschmack würzen
+- Den Deckel vom Reis nehmen, die Erbsen hinzufügen, alles vermengen und noch ein paar Minuten köcheln lassen. Minuten ziehen lassen. Die ungekochten Poppadoms aufbrechen und in der Mikrowelle (800 W) für ein oder zwei Minuten aufblähen. Chili und die Korianderblätter in feine Scheiben schneiden und über das Curry streuen. Joghurt beträufeln und mit Zitronenspalten, Poppadoms und Reis, Bohnen und Erbsen servieren. und Erbsen
 ---
