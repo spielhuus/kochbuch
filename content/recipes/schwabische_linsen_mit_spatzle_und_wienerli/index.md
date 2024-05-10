@@ -17,25 +17,27 @@ prepTime: 10
 cookTime: 20
 
 ingredients:
-- 1	Zwiebel(n), gewürfelt
-- ½ Stange/n	Lauch, in Ringe geschnitten
-- 1	Karotte(n), in Scheiben geschnitten
-- 2 Scheibe Knollensellerie (mittelgroße Scheiben), gewürfelt
-- 150 g	Linsen, wenn möglich, echte Alblinsen
+- 1-2	Kartoffeln
 - 150 g	Räucherbauch (Wacholderbauch)
+- 2	Scheibe Knollensellerie
+- 1	Karotte(n)
+- ½	Stange Lauch
+- 1	Zwiebel(n)
+- 150 g	Linsen, wenn möglich, echte Alblinsen
 - 500 ml	Gemüsebrühe
-- 1 kleine	Kartoffel(n), gerieben
-- 4	Würstchen (Saitenwürstchen oder Wienerle)
+- 4	Würstchen (Saitenwürstchen oder Wienerli)
 - 2 El Öl
 - Salz und Pfeffer
 - Muskat
 - 2 EL	Rotweinessig nach Geschmack
 - 250 g	Spätzle
 
-
-
 directions:
+- Kartoffel Würfel in der Butter anbraten.
+- Den Kollenselleri und die Karotten hinzugeben.
+- Wenn die Würfel schön Farbe haben die Zwiebeln hinzugeben.
 - Den Speck mit anbraten
+- Mit wasser und nach belieben Weisswein ablöschen.
 - Die gewürfelte Zwiebel andünsten, dann das Gemüse
 - Die Linsen hinzugeben. 
 - Die Brühe angießen und bei eingeweichten Linsen ca. 15 Minuten kochen. 
