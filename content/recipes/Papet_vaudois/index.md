@@ -12,26 +12,36 @@ category: # The type of meal or course your recipe is about. For example: "dinne
 cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - Schweiz
-yield: 8
+yield: 4
 prepTime: 10
 cookTime: 30
 
 ingredients:
-- 2 Saucisses
-- 2 Zwiebeln, fein gehackt
+- 2 Saucissons
+- 2 Zwiebeln
 - Butter zum Andünsten
-- 1 kg Lauch, in 3 cm grosse Stücke geschnitten
+- 200 g Lauch
+- 1 Karotte
+- 800 g Kartoffeln
 - 2,5 dl Weisswein
 - 2,5 dl Fleischbouillon
-- 1 Karrotte
-- 500 g Kartoffeln, geschält, in grosse Würfel geschnitten
 - 1 dl Rahm
 - 1 EL weisser Essig
+- 1 EL Mehl, gestrichen
 - Salz, Pfeffer, Muskat
 
 directions:
-- Würste nach Belieben 1-2 Mal mit einem Zahnstocher einstechen. Saucisson und die Kabiswürste 30-40 Minuten in leicht köchelndem Wasser garen, herausnehmen.
-- Zwiebeln in der Butter andünsten, Lauch beigeben, mitdünsten. Mit Wein und Bouillon ablöschen, ca. 15 Minuten kochen.
-- Kartoffeln beigeben, ca. 20 Minuten köcheln.
-- Rahm und Essig beifügen, abschmecken. Das Lauch-Kartoffelgemüse auf vorgewärmten Tellern anrichten. Die Saucisson und die Kabiswürste in Scheiben schneiden, darauflegen.
+- Den Lauch in einer Bratpfanne auf kleiner Flamme braten, bis er weich ist. Zur Seite stellen und abkühlen lassen.
+- Die Saucisson in einer großen Pfanne mit Wasser ziehen lassen.
+- Die Zwiebeln halbieren und in feine Ringe schneiden. In Butter langsam anbraten.
+- Das Mehl dazugeben und unterrühren.
+- Mit Weißwein ablöschen und Bouillon dazugeben. Köcheln lassen.
+- Die Kartoffeln schälen und kleinschneiden, dann in Salzwasser kochen.
+- Die Karotten in feine Ringe schneiden und zur Sauce geben.
+- Den Lauch in 1 cm große Ringe schneiden und zur Sauce geben.
+- Die Sauce mit Salz, Pfeffer und Muskat abschmecken.
+- Das Wasser der Saucisson abgießen, die Würste anstechen und das Fett sammeln. Die Würste beiseite stellen.
+- Die Kartoffeln und die Sauce in die Pfanne geben und rühren.
+- Unterrühren und Wasser der Kartoffeln dazu geben.
+- Auf einer Platte servieren.
 ---
