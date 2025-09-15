@@ -13,3 +13,4 @@ _notebooks/.ipynb_checkpoints
 __pycache__
 .hugo_build.lock
 public
+resources/_gen
