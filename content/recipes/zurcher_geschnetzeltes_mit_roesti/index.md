@@ -2,8 +2,8 @@
 layout: recipe
 date: 2025-02-01T16:51:00+01:00
 draft: true
-title: "Pizokel" # The title of your awesome recipe
-image: pizokel.jpg
+title: "Zuri geschnetyeltes it roesti" # The title of your awesome recipe
+image: #pizokel.jpg
 authorName: # Name of the recipe/article author
 authorURL: # URL of their home website
 sourceName: # Name of the source website
@@ -18,8 +18,6 @@ cookTime: 30
 
 ingredients:
 - knollenselleri
-
-
 - 200 g	Mehl
 - 0,8 dl	Milch
 - 2	Eier
@@ -39,9 +37,6 @@ ingredients:
 
 directions:
 - Selleri in wuerfel schneiden und langsam in butter anbraten
-- 
-
-
 - Den Salzis und den Lauch klein schneiden, in Butter anbraten und abkühlen lassen.
 - Den Spätzli-Teig vorbereiten und den Salzis und Lauch dazugeben.
 - Die Bohnen in reichlich gesalzenem Wasser kochen und unter kaltem Wasser abkühlen.

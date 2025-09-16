@@ -1,9 +1,9 @@
 ---
 layout: recipe
 date: 2025-01-09
-draft: true
+draft: false 
 title: "Risotto ai Funghi e Taleggio" # The title of your awesome recipe
-image: mushroom-taleggio-risotto.jpg
+image: IMG20250916204358.jpg
 imagecredit: reddit
 YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
 authorName: # Name of the recipe/article author

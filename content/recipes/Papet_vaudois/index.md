@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2021-11-21T16:49:06+01:00
-draft: true
+draft: false
 title: "Papet Vaudois"
 image: Papet_vaudois.jpg
 authorName: # Name of the recipe/article author

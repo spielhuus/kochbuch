@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2025-02-01T16:51:00+01:00
-draft: true
+draft: false
 title: "Pizokel" # The title of your awesome recipe
 image: pizokel.jpg
 authorName: # Name of the recipe/article author

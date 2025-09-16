@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2025-02-08T16:52:40+01:00
-draft: false
+draft: true
 title: "Saftplätzli"
 image: awesome-recipe-image.jpg # Name of image in recipe bundle
 imagecredit: 
