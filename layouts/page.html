@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+  <div class="image">
+    {{ $slug := .Page.RelPermalink | path.Base }}
+    {{ $imagePath := printf "/images/%s.jpg" $slug }}
+    {{ with resources.Get $imagePath }}
+    {{ $resized := .Resize "800x" }}
+      <!-- <div class="ratio bg-cover" style="background-image:url({{$resized.Permalink}});"></div> -->
+      <img 
+        src="{{ $resized.RelPermalink }}" 
+        width="{{ $resized.Width }}" 
+        height="{{ $resized.Height }}" 
+        alt="A photo for the page: {{ $.Page.Title }}"></img>
+    {{ else }}
+      {{ warnf "Image not found for page %s at expected path %s" $.Page.Path $imagePath }}
+    {{ end }}
+  </div>
+
+  <div class="recipe-layout">
+    <div ingredients>
+      {{ range .Params.ingredients }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </div>
+    <div id="directions">
+      {{ range .Params.directions }}
+      <li>{{ . }}</li>
+      {{ end }}
+    </div>
+  </div>
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

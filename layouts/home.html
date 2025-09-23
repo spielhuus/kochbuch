@@ -1,0 +1,11 @@
+{{ define "main" }}
+ <div class="image-gallery">
+   {{ template "_partials/items.html" . }}
+</div>
+<div class="container mt4 mb4">
+  <div class="sm-col-6 mx-auto px3 sm-px4">
+    {{ .Content }}
+  </div>
+</div>
+{{ template "_partials/paginator.html" . }}
+{{ end }}

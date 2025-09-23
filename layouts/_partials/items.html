@@ -1,0 +1,20 @@
+{{ range .Paginator.Pages }}
+  <div class="gallery-item">
+      <a class="block relative bg-blue" href="{{ .RelPermalink }}">
+        {{ $slug := .Page.RelPermalink | path.Base }}
+        {{ $imagePath := printf "/images/%s.jpg" $slug }}
+        {{ with resources.Get $imagePath }}
+          {{ $resized := .Resize "400x" }}
+          <div class="ratio bg-cover" style="background-image:url({{$resized.Permalink}});"></div>
+        {{ else }}
+          {{ warnf "Image not found for page %s at expected path %s" $.Page.Path $imagePath }}
+        {{ $imagePath := "/images/plate-161124_1280.png" }}
+          {{ with resources.Get $imagePath }}
+            {{ $resized := .Resize "400x" }}
+            <div class="ratio bg-cover" style="background-image:url({{$resized.Permalink}});"></div>
+          {{ end }}
+        {{ end }}
+        <h1 class="title p2 m0 absolute white bottom-0 left-0 title-shadow">{{ .Title }}</h1>
+      </a>
+  </div>
+{{ end }}
