@@ -2,52 +2,55 @@
 layout: recipe
 date: 2025-02-01T16:51:00+01:00
 draft: true
-title: "Zuri geschnetyeltes it roesti" # The title of your awesome recipe
-image: #pizokel.jpg
-authorName: # Name of the recipe/article author
-authorURL: # URL of their home website
-sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
-category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - Schweiz
+title: "Zürcher Geschnetzeltes mit Rösti"
+tags:
+- Schweiz
 yield: 4
 prepTime: 20
 cookTime: 30
 
 ingredients:
-- 1 Zwiebel
-- 200g Pilze zB Champingnons oder gemischt nach Geschmack
-- 400g Kalbsgeschnetzeltes
-- Sabei, Rosmarin und Lorbeer
+- 400 g Kalbsgeschnetzeltes
+- 200 g Pilze (z.B. Champignons oder eine Pilzmischung nach Wahl)
+- 2 Zwiebeln (eine für die Soße, eine weitere, optional, für die Rösti)
 - 1 TL Mehl
-- Weisswein
+- 100 ml trockener Weißwein
+- 50-100 ml Kalbsfond oder Wasser (alternativ Gemüsebrühe)
+- 1 EL Butter zum Anbraten
+- Einige frische Salbeiblätter
+- 1 Lorbeerblatt
+- Salz
+- Frisch gemahlener Pfeffer
 
-
-- Butter zum Dünsten
-- Salz, Pfeffer
+# Für die Rösti
+- ca. 800 g festkochende Kartoffeln
+- 1-2 EL Butterschmalz oder Pflanzenöl zum Braten
+- Salz
+- Frisch geriebene Muskatnuss
 
 directions:
-- Pilze schneiden und in Butter anbraten, beiseite Stellen
-- Das Fleisch anbraten und auch beiseite stellen
-- die Zwiebel in feine Ringe schneiden und in butter anbraten
-- den Salbei und Lorbeer dein hacken und daz geben
-- das Mehl dazu geben und unterruehen
-- mit dem Wein abloeschen und einkochen lassen
+- Die Pilze putzen in Scheiben schneiden und in einer bratpfanne anbraten. Beiseite stellen.
+- Das Kalbsgeschnetzelte in derselben pfanne anbraten und auch beiseite stellen.
 
-
-- Selleri in wuerfel schneiden und langsam in butter anbraten
-- Den Salzis und den Lauch klein schneiden, in Butter anbraten und abkühlen lassen.
-- Den Spätzli-Teig vorbereiten und den Salzis und Lauch dazugeben.
-- Die Bohnen in reichlich gesalzenem Wasser kochen und unter kaltem Wasser abkühlen.
-- Den Wirsing sehr fein schneiden und blanchieren, dann auch unter kaltem Wasser abkühlen.
-- Die Stiele vom Spinat entfernen und waschen.
-- Den Speck fein schneiden und anbraten.
-- Die kleingeschnittenen Zwiebeln dazu geben.
-- Die Spätzli in das kochende Wasser schaben und in die Bratpfanne geben.
-- Das Gemüse dazugeben und schwenken.
-- Das Bündnerfleisch in feine Streifen schneiden.
-- Das Gericht mit Salz und Pfeffer abschmecken.
-- Auf einer Platte anrichten und das Bündnerfleisch darüber verteilen. 
+- Die Kartoffeln schälen und grob raspeln (ideal ist eine Rösti-Raffel). Die geraspelten Kartoffeln in ein sauberes Küchentuch geben und kräftig ausdrücken, um überschüssige Flüssigkeit zu entfernen. Beiseitestellen.
+- "2. Zürcher Geschnetzeltes zubereiten:"
+- In einer großen Pfanne (oder einem Schmortopf) 1 EL Butter erhitzen.
+- Die Pilze darin goldbraun anbraten. Aus der Pfanne nehmen und beiseitestellen.
+- Das Kalbsgeschnetzelte portionsweise in derselben Pfanne scharf anbraten, bis es leicht gebräunt ist. Ebenfalls herausnehmen und zu den Pilzen geben.
+- Eine Zwiebel schälen und fein würfeln. In derselben Pfanne mit etwas frischer Butter glasig dünsten.
+- Die Salbeiblätter fein hacken und zusammen mit dem Lorbeerblatt zu den Zwiebeln geben und kurz mitdünsten.
+- Das Mehl darüberstäuben und unter ständigem Rühren etwa 1 Minute anschwitzen.
+- Mit dem Weißwein ablöschen und unter Rühren etwas einkochen lassen.
+- Den Kalbsfond (oder Wasser/Gemüsebrühe) nach und nach dazugießen, bis eine sämige Soße entsteht. Die Soße aufkochen lassen und etwa 5-10 Minuten bei kleiner Flamme köcheln lassen, bis sie leicht eingedickt ist.
+- Mit Salz und frisch gemahlenem Pfeffer abschmecken.
+- Kurz vor dem Servieren die angebratenen Pilze und das Kalbsgeschnetzelte in die Soße geben und nur noch kurz darin erwärmen. Achten Sie darauf, das Fleisch nicht mehr kochen zu lassen, damit es zart bleibt. Das Lorbeerblatt vor dem Servieren entfernen.
+- "3. Rösti zubereiten:"
+- Eine große Bratpfanne (am besten antihaftbeschichtet) mit Butterschmalz oder Pflanzenöl erhitzen.
+- Optional: Die zweite Zwiebel schälen, in feine Ringe schneiden und kurz in der Pfanne anbraten, dann beiseitestellen und später unter die Rösti mischen. Die vorbereiteten Kartoffelraspeln in die heiße Pfanne geben und gleichmäßig verteilen. Für etwa 5 Minuten bei mittlerer Hitze braten, dabei gelegentlich umrühren, bis die Kartoffeln leicht Farbe annehmen.
+- Mit Salz und frisch geriebener Muskatnuss würzen. Die Kartoffelmasse zu einem flachen Kuchen formen und fest andrücken.
+- Die Rösti bei mittlerer Hitze etwa 10-15 Minuten goldbraun und knusprig braten.
+- Mit Hilfe eines Tellers oder Deckels wenden und die andere Seite ebenfalls 10-15 Minuten braten, bis die Rösti durchgegart und rundherum goldbraun ist.
+- "4. Anrichten:"
+- Das Zürcher Geschnetzelte zusammen mit der knusprigen Rösti servieren.
 ---
+
