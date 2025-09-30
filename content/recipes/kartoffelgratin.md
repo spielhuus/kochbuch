@@ -3,34 +3,27 @@ layout: recipe
 date: 2021-11-21T16:52:40+01:00
 draft: true
 title: "Gratin dauphinois"
-image: awesome-recipe-image.jpg
 tags:
-  - Frankreich
-yield: 8
+- Frankreich
+yield: 4
 prepTime: 15
 cookTime: 45
 
 ingredients:
 - 800 g Kartoffeln
-- Salbei
-- Muskatnuss
-- 3dl Milch-
-- 1 Knolblauchzehe
-- 2 Stangenselleri
--
-- 3 Zwiebeln
-- Speck
-- Olivenöl
-- 1dl Hühnerbrühe
-- 100g Sahne
-- 30 g Gruyère
+- 1 Lorbeerblatt
+- Muskatnuss (frisch gerieben)
+- 3 dl Milch
+- 1 Knoblauchzehe
+- 2 Stangen Lauch
+- 1 dl Hühnerbrühe
+- Butter
 
 directions:
-- Die Milch leise koecheln, den Knoblauch schaelen und zerdruecken. Knocblauch, Lorbeer und geriebene Muskatnuss zu der Milch geben
-- Die Stangenselleri putzen und in einer Bratpfanne mit butter langsam anbraten.
--
-- Backofen auf 180°C Ober-/Unterhitze vorheizen (Heissluft/Umluft ca. 160°C).
-- Kartoffeln in scheiben schneiden und in der gratinform aufschichten. den Käse daruber hobeln,
-- Zwiebeln und Speck feinschneiden. Den Speck anbraten bis er braun wird und die Zwiebeln dazugeben. mit hühnerbrühe ablöschen. ein wenig einkochen und über den Gratin giessen. Rahm dazu geben.
-- Gratin im Backkofen ca 50 min backen.
+- Die Milch leicht erwärmen und leise köcheln lassen. Knoblauch schälen, zerdrücken und zusammen mit dem Lorbeerblatt und der geriebenen Muskatnuss zu der Milch geben.
+- Den Lauch putzen und in einer beschichteten Bratpfanne mit etwas Butter bei mittlerer Hitze langsam anbraten.
+- Den Lauch abkühlen lassen und fein hacken.
+- Die Kartoffeln in etwa 4 mm dünne Scheiben schneiden und in einer Gratinform aufschichten. Den gehackten Lauch dazwischen verteilen und kleine Butterflöckchen darüber setzen.
+- Im auf 180 °C vorgeheizten Backofen 40-50 Minuten backen, bis die Oberfläche goldbraun ist.
+- Das Gratin langsam abkühlen lassen, damit die Kartoffeln die Flüssigkeit aufnehmen können.
 ---
