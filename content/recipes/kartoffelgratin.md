@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2021-11-21T16:52:40+01:00
-draft: true
+draft: false
 title: "Gratin dauphinois"
 tags:
 - Frankreich
