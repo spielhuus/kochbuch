@@ -37,9 +37,6 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build Rust Wasm artifacts
-        run: make web
-
       - name: Build Hugo site
         env:
           HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
