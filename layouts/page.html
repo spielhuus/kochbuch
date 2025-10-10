@@ -9,7 +9,6 @@
     {{ $imagePath := printf "/images/%s.jpg" $slug }}
     {{ with resources.Get $imagePath }}
     {{ $resized := .Resize "800x" }}
-      <!-- <div class="ratio bg-cover" style="background-image:url({{$resized.Permalink}});"></div> -->
       <img 
         src="{{ $resized.RelPermalink }}" 
         width="{{ $resized.Width }}" 
@@ -23,7 +22,14 @@
   <div class="recipe-layout">
     <div ingredients>
       {{ range .Params.ingredients }}
-      <li>{{ . }}</li>
+        {{if reflect.IsMap ( . ) }}
+            <strong>{{ .heading }}</strong>
+            {{ range $item := .items }}
+              <li>{{ $item }}</li>
+            {{ end }}
+        {{ else }}
+          <li>{{ . }}</li>
+        {{ end }}
       {{ end }}
     </div>
     <div id="directions">
@@ -32,6 +38,7 @@
       {{ end }}
     </div>
   </div>
+
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
