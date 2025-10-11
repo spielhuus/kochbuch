@@ -18,6 +18,7 @@ cookTime: 90
 
 ingredients:
 - 1 ganzes Huhn
+- 1 Ei
 - Glatte Petersilie
 - Oregano
 - Salbei
