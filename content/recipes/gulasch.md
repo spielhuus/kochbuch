@@ -1,53 +1,44 @@
 ---
 layout: recipe
 date: 2021-11-21T16:51:00+01:00
-draft: false 
-title: "Gulasch" # Der Titel Ihres tollen Rezepts
-image: awesome-recipe-image.jpg # Name of image in recipe bundle
-authorName: # Name of the recipe/article author
-authorURL: # URL of their home website
-sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
-category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - Italien
-  - Pasta
+draft: false
+title: "Gulasch"
+tags:
+- Ungarn
 yield: 4
 prepTime: 20
 cookTime: 120
 
 ingredients:
-- Knollenselleri
+- 500-600 g Gulaschfleisch (Rind oder Schwein)
+- 1/2 Knollensellerie
 - 2 Zwiebeln
 - 1 Knoblauchzehe
-- 1 Pepperoni
-- habanero Chili
-- oregano
-- glatter peterli 
-- salbei
-- rosmarin
-- mehl
-- soja sauce
-- fisch sauce
-- kartoffel
+- 1 rote Paprika
+- 1/2 - 1 Habanero Chili (je nach gewünschter Schärfe)
+- 2 Zweige frischer Salbei
+- 1 Zweig frischer Rosmarin
+- 2 EL Butter
+- 3 EL Mehl (1 EL zum Bestäuben, 2 EL für Beurre manié)
+- 2-3 Kartoffeln
+- 1 TL edelsüsses Paprikapulver
+- 1-2 Lorbeerblätter
+- ca. 750 ml Wasser oder Rinderbrühe
 - Salz und Pfeffer
-- optional Eier
+- "Optional: Eier zum Servieren"
 
 directions:
-- die blattgelatine in der bruehe aufloesen
-- Knollenselleri in wuerfel scheiden und langsam in der Butter anbraten
-- wenn der selleri farbe annimmt Zwiebel in feine ringe schneiden und dazugeben
-- Wenn die Zwiebeln weich sind Pepperoni schaelen und in feine streifen schneiden, zu den Zwiebeln geben
-- 2 teeloeffel mehl unterruehren
-- ein wenig soja und fisch sose dazu geben
-- Knowblauch, Peterli, oregano, salbei, rosmarin und chili fein hacken und in den topf geben
-- die boullion mit einnem loorbeerblat zum fleisch geben
-- aufkochen und leise koecheln lassen
-- die kartoffel in wuerfel schneiden und zu dem gulasch geben
-- butter auf raumtemeratur erwaermen lasseun und mit mehl mischen
-- das fertige gulasch mit der butter und mehl masse abbinden
-- mit spaezli servieren
-- mit salz und pfeffer abschmecken
-- nach geschmack spiegeleier dazu servieren
+- Den Knollensellerie würfeln und in 1 EL Butter in einem grossen Topf langsam anbraten, bis er leicht Farbe annimmt.
+- In der Zwischenzeit die Zwiebeln in feine Ringe schneiden. Sobald der Sellerie Farbe angenommen hat, die Zwiebeln hinzufügen und weich dünsten.
+- Die Paprika waschen, entkernen und in feine Streifen schneiden. Zu den Zwiebeln geben und kurz mitdünsten.
+- Das Gemüse mit 1 EL Mehl bestäuben und kurz mitrösten. Das edelsüsse Paprikapulver hinzufügen und kurz mitrösten.
+- Knoblauch, Salbei, Rosmarin und Habanero Chili fein hacken. Zum Gemüse geben und kurz mitbraten, bis es duftet.
+- Das Gulaschfleisch hinzufügen, mit Wasser oder Brühe aufgiessen, sodass das Fleisch bedeckt ist.
+- Die Lorbeerblätter hinzugeben.
+- Das Gulasch zugedeckt bei niedriger Hitze für etwa 1,5 Stunden schmoren lassen.
+- Die Kartoffeln schälen, würfeln und etwa 30 Minuten vor Ende der Garzeit zum Gulasch geben.
+- In der Zwischenzeit 1 EL Butter bei Raumtemperatur weich werden lassen und mit 2 EL Mehl zu einer glatten Beurre manié verrühren.
+- Sobald die Kartoffeln gar sind, das Gulasch mit der Beurre manié unter ständigem Rühren abbinden, bis die gewünschte Konsistenz erreicht ist.
+- Das Gulasch mit Salz und Pfeffer abschmecken.
+- "Optional: Nach Belieben Spiegeleier dazu servieren."
 ---
