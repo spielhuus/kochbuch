@@ -18,6 +18,7 @@ ingredients:
 - 150-200 g Appenzeller Käse
 - 1 Zwiebel, in feine Ringe geschnitten
 - 1 Speck
+- Glatter Peterli
 - "Optional: Weisswein"
 - Salz, Pfeffer, Muskat
 
@@ -30,6 +31,7 @@ directions:
 - Nach ca. 5 Minuten die Älplermagronen dazugeben. Auch diese sollten mit Wasser bedeckt sein.
 - Für etwa 8 Minuten kräftig kochen und dabei umrühren.
 - Die Temperatur reduzieren und den geriebenen Käse, etwas Rahm und eine Prise Muskatnuss dazugeben.
+- Den Peterli fein hacken und dazu geben.
 - Schwarzen Pfeffer über die Mischung mahlen und alles gut vermengen.
 - Die gesamte Mischung in eine ofenfeste Form füllen. Im vorgeheizten Ofen für ca. 20 Minuten bei 160 Grad Celsius backen. 
 ---
