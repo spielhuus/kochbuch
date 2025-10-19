@@ -23,7 +23,7 @@ ingredients:
 directions:
 - Den Speck in kleine Würfel schneiden und in reichlich Butter in einer Pfanne langsam braten, bis er knusprig ist.
 - Wenn der Speck braun zu werden beginnt, die Zwiebel halbieren, in feine Ringe schneiden und zum Speck in die Pfanne geben. Braten, bis die Zwiebeln goldbraun sind.
-- Die Kartoffeln in Würfel schneiden und in einen grossen Topf geben. Wasser hinzufügen, bis die Kartoffeln bedeckt sind.
+- Die Kartoffeln in Würfel schneiden und in den Topf geben. Wasser hinzufügen, bis die Kartoffeln bedeckt sind.
 - Das Wasser salzen.
 - Nach ca. 5 Minuten die Älplermagronen dazugeben. Auch diese sollten mit Wasser bedeckt sein.
 - Für etwa 8 Minuten kräftig kochen und dabei umrühren.
