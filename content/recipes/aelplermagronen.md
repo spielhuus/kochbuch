@@ -1,18 +1,11 @@
 ---
 layout: recipe
 date: 2021-11-21T16:51:00+01:00
-draft: true
-title: "Aelplermagronen" # The title of your awesome recipe
-image: awesome-recipe-image.jpg # Name of image in recipe bundle
-authorName: # Name of the recipe/article author
-authorURL: # URL of their home website
-sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
-category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - Schweiz
-  - Pasta
+draft: false
+title: "Älplermagronen"
+tags:
+- Schweiz
+- Pasta
 yield: 8
 prepTime: 20
 cookTime: 30
@@ -21,17 +14,21 @@ ingredients:
 - 1/2 l Rahm
 - 1 TL Salz
 - 400 g Älplermagronen
-- 2 kartoffeln
+- 2 Kartoffeln
 - 150-200 g Appenzeller Käse
 - 1 Zwiebel, in feine Ringe geschnitten
 - 1 Speck
 - Salz, Pfeffer, Muskat
 
 directions:
-- Backofen auf 200° vorheizen
-- Kartoffeln schälen und in würfel schneiden in gesalzenem Wasser kochen. Nach 5min Teigwaren hinzufügen und al dente kochen. Anschliessend die Teigwaren in eine ofenfeste Form geben. Ein wenig Wasser beiseitestellen.
-- Speck und zwiebeln anbraten.
-- Teigwaren mit dem gerieben käse bestreuen.
-- Speck und Zwiebeln darüber geben. Mit dem Rahm und Wasser übergiessen.
-- Im Backofen bei 200° 20-30 min backen.
+- Den Speck in kleine Würfel schneiden und in reichlich Butter in einer Pfanne langsam braten, bis er knusprig ist.
+- Wenn der Speck braun zu werden beginnt, die Zwiebel halbieren, in feine Ringe schneiden und zum Speck in die Pfanne geben. Braten, bis die Zwiebeln goldbraun sind.
+- Die Kartoffeln in Würfel schneiden und in einen grossen Topf geben. Wasser hinzufügen, bis die Kartoffeln bedeckt sind.
+- Das Wasser salzen.
+- Nach ca. 5 Minuten die Älplermagronen dazugeben. Auch diese sollten mit Wasser bedeckt sein.
+- Für etwa 8 Minuten kräftig kochen und dabei umrühren.
+- Die Temperatur reduzieren und den geriebenen Käse, etwas Rahm und eine Prise Muskatnuss dazugeben.
+- Schwarzen Pfeffer über die Mischung mahlen und alles gut vermengen.
+- Die gesamte Mischung in eine ofenfeste Form füllen. Im vorgeheizten Ofen für ca. 20 Minuten bei 160 Grad Celsius backen. 
 ---
+
