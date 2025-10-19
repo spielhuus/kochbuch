@@ -18,11 +18,13 @@ ingredients:
 - 150-200 g Appenzeller Käse
 - 1 Zwiebel, in feine Ringe geschnitten
 - 1 Speck
+- "Optional: Weisswein"
 - Salz, Pfeffer, Muskat
 
 directions:
 - Den Speck in kleine Würfel schneiden und in reichlich Butter in einer Pfanne langsam braten, bis er knusprig ist.
 - Wenn der Speck braun zu werden beginnt, die Zwiebel halbieren, in feine Ringe schneiden und zum Speck in die Pfanne geben. Braten, bis die Zwiebeln goldbraun sind.
+- Wenn gewünscht den Weisswein in den Topf geben und gut einkochen.
 - Die Kartoffeln in Würfel schneiden und in den Topf geben. Wasser hinzufügen, bis die Kartoffeln bedeckt sind.
 - Das Wasser salzen.
 - Nach ca. 5 Minuten die Älplermagronen dazugeben. Auch diese sollten mit Wasser bedeckt sein.
