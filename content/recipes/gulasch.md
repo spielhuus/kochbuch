@@ -15,7 +15,7 @@ ingredients:
 - 2 Zwiebeln
 - 1 Knoblauchzehe
 - 1 rote Paprika
-- 1/2 - 1 Habanero Chili (je nach gewünschter Schärfe)
+- Habanero Chili (je nach gewünschter Schärfe)
 - 2 Zweige frischer Salbei
 - 1 Zweig frischer Rosmarin
 - 2 EL Butter
@@ -25,6 +25,7 @@ ingredients:
 - 1-2 Lorbeerblätter
 - ca. 750 ml Wasser oder Rinderbrühe
 - Salz und Pfeffer
+- "Optional: Weisswein"
 - "Optional: Eier zum Servieren"
 
 directions:
@@ -33,6 +34,7 @@ directions:
 - Die Paprika waschen, entkernen und in feine Streifen schneiden. Zu den Zwiebeln geben und kurz mitdünsten.
 - Das Gemüse mit 1 EL Mehl bestäuben und kurz mitrösten. Das edelsüsse Paprikapulver hinzufügen und kurz mitrösten.
 - Knoblauch, Salbei, Rosmarin und Habanero Chili fein hacken. Zum Gemüse geben und kurz mitbraten, bis es duftet.
+- "Optional: Weisswein in die Pfanne geben und einkochen lassen"
 - Das Gulaschfleisch hinzufügen, mit Wasser oder Brühe aufgiessen, sodass das Fleisch bedeckt ist.
 - Die Lorbeerblätter hinzugeben.
 - Das Gulasch zugedeckt bei niedriger Hitze für etwa 1,5 Stunden schmoren lassen.

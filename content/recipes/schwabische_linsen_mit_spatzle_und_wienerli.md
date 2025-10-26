@@ -18,10 +18,9 @@ cookTime: 20
 
 ingredients:
 - 1-2	Kartoffeln
-- 150 g	Räucherbauch (Wacholderbauch)
+- 150 g	Speck
 - 2	Scheibe Knollensellerie
-- 1	Karotte(n)
-- ½	Stange Lauch
+- 2	Stangen Lauch
 - 1	Zwiebel(n)
 - 150 g	Linsen, wenn möglich, echte Alblinsen
 - 500 ml	Gemüsebrühe
@@ -33,6 +32,12 @@ ingredients:
 - 250 g	Spätzle
 
 directions:
+- Den lauch putzen und der laenge nach einschneiden, in die schittflaeche butter streichen. In alufolie einwicheln und im backofen ca 1h bei 150 grad backen.
+- Die Kartoffel und Selleri in kleine Wuerfel schniden und langsam in reichlich butter anbraten
+- Den speck fein schneiden und dazu geben
+- Wenn die Kartoffel, Selleri und Speck schoen farbe haben ein grosse Zwiebel halbieren und in Ringe schneiden und dazu geben
+
+
 - Kartoffel Würfel in der Butter anbraten.
 - Den Kollenselleri und die Karotten hinzugeben.
 - Wenn die Würfel schön Farbe haben die Zwiebeln hinzugeben.

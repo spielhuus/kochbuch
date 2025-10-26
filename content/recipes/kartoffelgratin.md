@@ -20,6 +20,7 @@ ingredients:
 - Butter
 
 directions:
+- Den Lauch putzen der laenge nach einschneiden und Butter in den Schnitt streichen. In Alufolie einwickeln und mit der Butterseite nach oben ca 1h im BAckoofen bei 175Grad Backen.
 - Die Milch leicht erwärmen und leise köcheln lassen. Knoblauch schälen, zerdrücken und zusammen mit dem Lorbeerblatt und der geriebenen Muskatnuss zu der Milch geben.
 - Den Lauch putzen und in einer beschichteten Bratpfanne mit etwas Butter bei mittlerer Hitze langsam anbraten.
 - Den Lauch abkühlen lassen und fein hacken.
