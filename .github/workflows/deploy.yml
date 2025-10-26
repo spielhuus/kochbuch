@@ -49,7 +49,7 @@ jobs:
           HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
         run: |
           echo $HUGO_BASEURL
-          hugo --gc --minify -D --baseURL="$HUGO_BASEURL/dev"
+          hugo --gc --minify -D --baseURL="$HUGO_BASEURL/dev" --destination "public/dev"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
