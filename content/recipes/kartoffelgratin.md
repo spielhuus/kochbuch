@@ -22,7 +22,6 @@ ingredients:
 directions:
 - Den Lauch putzen der laenge nach einschneiden und Butter in den Schnitt streichen. In Alufolie einwickeln und mit der Butterseite nach oben ca 1h im Backoofen bei 175 Grad Backen.
 - Die Milch leicht erwärmen und leise köcheln lassen. Knoblauch schälen, zerdrücken und zusammen mit dem Lorbeerblatt und der geriebenen Muskatnuss zu der Milch geben.
-- Den Lauch putzen und in einer beschichteten Bratpfanne mit etwas Butter bei mittlerer Hitze langsam anbraten.
 - Den Lauch abkühlen lassen und fein hacken.
 - Die Kartoffeln in etwa 4 mm dünne Scheiben schneiden und in einer Gratinform aufschichten. Den gehackten Lauch dazwischen verteilen und kleine Butterflöckchen darüber setzen.
 - Im auf 180 °C vorgeheizten Backofen 40-50 Minuten backen, bis die Oberfläche goldbraun ist.
