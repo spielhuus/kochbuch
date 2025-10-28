@@ -26,3 +26,4 @@ directions:
 - Salz über die Kartoffeln streuen. Die Milch durch ein Sieb dazu geben und Butter darauf geben.   
 - Im auf 160 °C vorgeheizten Backofen 45-50 Minuten backen, bis die Oberfläche goldbraun ist.   
 - Das Gratin langsam abkühlen lassen, damit die Kartoffeln die Flüssigkeit aufnehmen können. 
+---
