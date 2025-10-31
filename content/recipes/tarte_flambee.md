@@ -2,7 +2,7 @@
 layout: recipe
 date: 2021-11-21T16:52:40+01:00
 draft: true
-title: "Kartoffelgratin" # The title of your awesome recipe
+title: "Tarte Flambee" # The title of your awesome recipe
 image: tarte_flambee.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
 YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
