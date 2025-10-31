@@ -48,7 +48,7 @@ jobs:
         env:
           HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
         run: |
-          echo $HUGO_BASEURL
+          echo "$HUGO_BASEURL/dev"
           hugo --gc --minify -D --baseURL="$HUGO_BASEURL/dev" --destination "public/dev"
 
       - name: Upload artifact
