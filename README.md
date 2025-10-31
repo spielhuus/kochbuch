@@ -2,7 +2,7 @@
 
 Sammlung meiner kochrezepte
 
-# So fügst du ein neues Rezept deinem Kochbuch hinzu
+# Neues Rezept erstellen
 
 1. Benötigte Programme:  
 - [Hugo](https://gohugo.io/) (Website-Generator)  
