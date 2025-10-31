@@ -37,15 +37,30 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
-      - name: Build Hugo site
+      - name: Build production site
         env:
-          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
+          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/
         run: |
-          echo $HUGO_BASEURL
-          hugo --gc --minify --baseURL="$HUGO_BASEURL"
-      
-          echo "$HUGO_BASEURL/dev"
-          hugo --gc --minify -D --baseURL="$HUGO_BASEURL/dev/" --destination "public/dev"
+          echo "Building production with baseURL: $HUGO_BASEURL"
+          hugo --gc --minify
+
+      - name: Build development site
+        env:
+          HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}/dev/
+        run: |
+          echo "Building development with baseURL: $HUGO_BASEURL"
+          hugo --gc --minify -D --destination "public/dev"
+
+
+      # - name: Build Hugo site
+      #   env:
+      #     HUGO_BASEURL: ${{ steps.pages.outputs.base_url }}
+      #   run: |
+      #     echo $HUGO_BASEURL
+      #     hugo --gc --minify --baseURL="$HUGO_BASEURL"
+      #
+      #     echo "$HUGO_BASEURL/dev"
+      #     hugo --gc --minify -D --baseURL="$HUGO_BASEURL/dev/" --destination "public/dev"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
