@@ -14,6 +14,7 @@ ingredients:
   items: 
     - 400 g Kalbsgeschnetzeltes 
     - 250 g Pilze (z.B. Champignons oder eine Pilzmischung nach Wahl) 
+    - 1 scheibe Knollenselleri
     - 1 Zwiebel 
     - Rosmarin 
     - Salbei 
@@ -33,7 +34,8 @@ ingredients:
 directions: 
 - Pilze putzen, in Scheiben schneiden und in einer Pfanne mit Butter anbraten. Beiseitestellen. 
 - Das Kalbsgeschnetzeltes in derselben Pfanne bei hoher Hitze portionenweise anbraten und beiseitestellen. Das Fleisch nur von einer Seite braten, damit es möglichst wenig Flüssigkeit verliert. Mit ca. 100 ml Weißwein den Bratensatz von der Pfanne lösen. 
-- Eine große Zwiebel fein hacken und in Butter in einer Pfanne langsam anbraten. 
+- Den Knollenselleri in einer Pfanne mit viel butter langsam anbraten. 
+- Eine große Zwiebel fein hacken und zum Knollenselleri geben 
 - Salbei und Rosmarin fein hacken und mit 1 gestrichenem Teelöffel Mehl und einem halben Teelöffel Senfpulver zu den Zwiebeln geben. 
 - Den Wein zu den Zwiebeln geben, etwas einkochen lassen. Danach ca. 4 dl Wasser und das Lorbeerblatt dazugeben und bei mittlerer Hitze ca. 30-40 Minuten kochen. 
 - Das Lorbeerblatt aus der Sauce entfernen und die Sauce mit dem Stabmixer pürieren. 
