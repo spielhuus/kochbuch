@@ -7,7 +7,7 @@ tags:
 - Frankreich
 
 ingredients:
-- 1 Hähnchen, in 4 bis 6 Stücke geschnitten
+- Pouletschenkel
 - Salz und Pfeffer zum Würzen
 - Mehl zum Bestäuben des Hähnchens
 - Butter
