@@ -7,28 +7,30 @@ tags:
 - Frankreich
 
 ingredients:
-- Pouletschenkel
-- Salz und Pfeffer zum Würzen
-- Mehl zum Bestäuben des Hähnchens
-- Butter
-- Lorbeer
-- Thymian
-- 200 ml Weisswein
-- 200 ml Rahm
-- 2 Eigelb
-- 2 bis 3 Esslöffel Dijon-Senf
-- 1 oder 2 Prise Cayennepfeffer
-- Senfpulver
+- Pouletschenkel  
+- Salz und Pfeffer zum Würzen  
+- Mehl zum Bestäuben  
+- Butter  
+- Lorbeer  
+- Rosmarin  
+- Knoblauch  
+- 200 ml Weisswein  
+- 200 ml Rahm  
+- sehr wenig Habanero-Chili  
+- 2 Eigelb  
+- 1 Teelöffel Dijon-Senf  
+- Senfpulver  
 
 directions:
-- Trenne die Eigelbe von den Eiweißen. Würze die Hähnchenstücke mit Salz und weißem Pfeffer, und bestäube jedes Stück leicht mit Mehl. Heize den Backofen auf 50 Grad Celsius (120°F) vor.
-- Schmelze die Butter in einer Pfanne oder einem großen Topf bei mittlerer Hitze, und brate die Hähnchenstücke auf beiden Seiten goldbraun an.
-- Gib den Thymian und die Lorbeerblätter in die Pfanne, und gieße den Wein dazu. Decke die Pfanne mit einem Deckel ab und lasse es bei sanfter Hitze 25 Minuten köcheln oder bis das Hähnchen gar ist.
-- Nimm die Hähnchenstücke heraus und lege sie auf ein Blech oder einen Teller.
-- Decke sie mit Alufolie ab und halte sie im Ofen warm, während du die Sauce zubereitest.
-- Gieße die Kochflüssigkeit, die in der Pfanne zurückgeblieben ist, durch ein Sieb, und gib sie zurück in die Pfanne. Lasse die Kochflüssigkeit bei starker Hitze eine Minute oder zwei reduzieren. Füge die Sahne hinzu, reduziere sie ein paar Minuten weiter, und schalte dann die Hitze aus.
-- Verrühre die beiden Eigelbe mit ein paar Esslöffeln der Sauce, und gib die Mischung zurück in die Pfanne und rühre sanft. Füge anschließend den Senf hinzu und rühre die Sauce noch einmal um.
-- Zum Schluss schalte die Hitze wieder auf sehr niedrig. Nimm das Hähnchen aus dem Ofen und gieße alle Kochflüssigkeit vom Blech oder der Pfanne in die Sauce. Rühre sanft, bevor du die Hähnchenstücke zurück in die Pfanne gibst.
-- Wärme das Hähnchen in der Sauce auf, bis es heiß genug zum Servieren ist, und achte darauf, dass die Sauce nicht kocht (um ein Reißen der Sauce zu vermeiden).
-- Serviere es direkt aus der Pfanne oder auf einem warmen Servierteller, zusammen mit Kartoffelstampf oder weißem Reis.
+- Die Pouletschenkel mit Salz und Pfeffer würzen, mit Mehl bestäuben und in Butter in der Pfanne anbraten.  
+- Zwei Knoblauchzehen schälen und zerdrücken. Zusammen mit Rosmarin, Lorbeerblättern und etwas Habanero-Chili zwischen die Schenkel stecken.  
+- Einen Teelöffel Mehl, Salz und Senfpulver darüberstreuen.  
+- 200 ml Weisswein darübergiessen.  
+- Zugedeckt für ca. 40-50 Minuten köcheln lassen. Zwischendurch kontrollieren, ob noch genügend Flüssigkeit vorhanden ist; gegebenenfalls Wasser nachgiessen.  
+- Die Schenkel herausnehmen und im Backofen warmhalten.  
+- Ein wenig Habanero-Chili sehr klein schneiden und dazugeben.  
+- Die Flüssigkeit durch ein Sieb giessen und zurück in die Pfanne geben, dann einkochen.  
+- Mit schwarzem Pfeffer nachwürzen. Den Rahm dazugeben und weiter einkochen.  
+- Die Hitze reduzieren, die Eigelbe verrühren und einen Teelöffel Senf dazugeben. In die Sauce rühren.  
+- Die Pouletschenkel wieder dazugeben und servieren.  
 ---

@@ -33,42 +33,8 @@ options:
   min_p:  0.1
   repeat_penalty: 1
 ---
+
 <== user
 
-layout: recipe
-date: 2021-11-21T16:46:58+01:00
-draft: false
-title: "Schwäbische Linsen mit Spätzle und Wienerli"
-tags:
-  - Deutsch
-
-ingredients:
-- 2	Stangen Lauch
-- 1 Scheibe Knollensellerie
-- 1 Karotte
-- 150 g	Speck
-- 1	Zwiebel
-- Salbei
-- Rosmarin
-- 100ml weisswein nach geschnack, sonst Wasser oder bouillon
-- 1-2 Kartoffeln
-- 150 g	Linsen, wenn möglich, echte Alblinsen
-- 4	Würstchen (Saitenwürstchen oder Wienerli)
-
-directions:
-- Den lauch putzen und der laenge nach einschneiden, in die schittflaeche butter streichen. In alufolie einwicheln und im backofen ca 1h bei 160 grad backen.
-- Den Speck fein schneiden und in einer bratpfanne mit butter anbraten
-- Den Kollenselleri und Karotten in Wuerfel schneiden und in butten anbraten.
-- Den Speck mit in die Pfanne geben
-- Zwiebeln in ringe schneiden und in dem Topf mit anbraten
-- Salbei und Rosmarin sehr fein hacken und dazu geben
-- mit dem Wein oder Wasser aufgiessen und einkochen, wasser nachgiessen und kochen lassen
-- den lauch klein schneiden und dazu geben
-- in einem zweiten topf die wienerli kochen
-- die kartoffeln in wuerfel schneiden und in die sauce geben
-- wenn die kartoffeln fast gar sind die linsen dazu geben
-- die sauce mit salz und pfeffer abschmecken und ruehren
-- Die Linsen mit den Würstchen und Spätzle anrichten.
----
 ==>
 
