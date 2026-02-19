@@ -1,6 +1,9 @@
 {{ range .Paginator.Pages }}
   <div class="gallery-item">
       <a class="block relative bg-blue" href="{{ .RelPermalink }}">
+        {{ if .Draft }}
+          <div class="draft-ribbon">DRAFT</div>
+        {{ end }}
         {{ $slug := .Page.RelPermalink | path.Base }}
         {{ $imagePath := printf "/images/%s.jpg" $slug }}
         {{ with resources.Get $imagePath }}
