@@ -25,16 +25,16 @@ ingredients:
 - 1-2 Lorbeerblätter
 - ca. 750 ml Wasser oder Rinderbrühe
 - Salz und Pfeffer
-- "Optional: Weisswein"
+- "Optional: Rotwein"
 - "Optional: Eier zum Servieren"
 
 directions:
 - Den Knollensellerie würfeln und in 1 EL Butter in einem grossen Topf langsam anbraten, bis er leicht Farbe annimmt.
 - In der Zwischenzeit die Zwiebeln in feine Ringe schneiden. Sobald der Sellerie Farbe angenommen hat, die Zwiebeln hinzufügen und weich dünsten.
-- Die Paprika waschen, entkernen und in feine Streifen schneiden. Zu den Zwiebeln geben und kurz mitdünsten.
-- Das Gemüse mit 1 EL Mehl bestäuben und kurz mitrösten. Das edelsüsse Paprikapulver hinzufügen und kurz mitrösten.
+- Die Paprika schälen, entkernen und in feine Streifen schneiden. Zu den Zwiebeln geben und kurz mitdünsten.
 - Knoblauch, Salbei, Rosmarin und Habanero Chili fein hacken. Zum Gemüse geben und kurz mitbraten, bis es duftet.
-- "Optional: Weisswein in die Pfanne geben und einkochen lassen"
+- Das Gemüse mit 1 EL Mehl bestäuben und kurz mitrösten. Das edelsüsse Paprikapulver hinzufügen und kurz mitrösten.
+- "Optional: Rotwein in die Pfanne geben und einkochen lassen"
 - Das Gulaschfleisch hinzufügen, mit Wasser oder Brühe aufgiessen, sodass das Fleisch bedeckt ist.
 - Die Lorbeerblätter hinzugeben.
 - Das Gulasch zugedeckt bei niedriger Hitze für etwa 1,5 Stunden schmoren lassen.
