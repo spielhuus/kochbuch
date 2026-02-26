@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2026-02-19T13:51:00+01:00
-draft: true
+draft: false
 title: "Bratwurst, Rösti und Zwiebelsauce"
 tags:
 - Schweiz
@@ -20,7 +20,10 @@ ingredients:
 directions:
 - Die Zwiebeln schälen und in Ringe schneiden.
 - In einer Bratpfanne den Butter schmelzen und die Zwiebeln darin kurz rösten
-- und mit dem Mehl bestäuben.
+- Das Mehl dazugen und unterühren, mit rösten.
+- Das Senfpulver und das Loorbeerblatt dazegeben.
+- Mit dem Rotwein ablöschen und ein wenig einkochen lassen.
+- Die Bouillon dazugeben und bis zur gewünschten Konsistenz köcheln lassen. Mit Salz und Pfeffer abschmecken.
 - Bratwürste nach Belieben einschneiden und in einer Bratpfanne mit dem Bratöl goldbraun braten.
-- Mit dem Rotwein und der Bouillon ablöschen und bis zur gewünschten Konsistenz köcheln lassen. Mit Salz und Pfeffer abschmecken.
+- Zusammen mit der Rösti servieren.
 ---
