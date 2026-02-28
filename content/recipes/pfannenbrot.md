@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2026-02-27T16:40:00+01:00
-draft: true
+draft: false
 title: "Pfannenbrot"
 tags:
   - Unterwegs
