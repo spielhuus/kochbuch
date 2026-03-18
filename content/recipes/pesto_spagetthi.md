@@ -6,9 +6,6 @@ title: "Pesto-Spaghetti mit grünen Bohnen und Kartoffeln"
 tags: 
   - Italien 
   - Pasta 
-yield: 4 
-prepTime: 10 
-cookTime: 30 
  
 ingredients:
 - 2 Bund frisches Basilikum, gewaschen und trocken getupft
@@ -17,7 +14,7 @@ ingredients:
 - 8 EL natives Olivenöl extra
 - 20 g frisch geriebener Parmesan
 - 500 g Spaghetti
-- 200 g grüne Bohnen
+- 200 g grüne Bohnen (optional Dörrbohnen)
 - 2 Kartoffeln, geschält und in Würfel geschnitten
 - Salz
 - Frisch gemahlener schwarzer Pfeffer
