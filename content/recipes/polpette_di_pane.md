@@ -7,7 +7,33 @@ tags:
 - Italien
 
 ingredients:
-
+  - 800g Tomaten
+  - 3 Zucchini
+  - 200 g altbackenes Brot
+  - geräucherter Provola nach Bedarf
+  - 1 Ei 
+  - 25 g Sbrinz
+  - 25 g Pecorino
+  - Knoblauch
+  - Basilikum 
+  - Minze
+  - Habanero Chili (sehr wenig)
 directions:
+- Die Tomaten schälen und zerkleinern und in einer Pfanne mit etwas Knoblauch und Chili kochen.
+- Das Brot im Mixer zerkleinern, bis es Paniermehl ist. Olivenöl in der Bratpfanne erhitzen. Den Knoblauch schälen und zerdrücken, im Öl braten. Der Knoblauch darf keine Farbe bekommen.
+- Die Zucchini in Würfel schneiden.
+- Den Knoblauch aus dem Öl nehmen und die Zucchini portionenweise darin braun braten. Abkühlen lassen.
+- Die Zucchini in eine Schüssel geben und zerdrücken.
+- Das Ei dazugeben. Mit Salz und Pfeffer würzen.
+- Den Sbrinz und Pecorino dazugeben.
+- Die Minze fein hacken und dazugeben.
+- Alles mischen und vom Brot dazugeben, bis es eine feste Masse wird.
+- Kugeln formen und in jede Kugel Provola drücken.
+- Im Paniermehl wenden.
+- In reichlich Olivenöl und Butter in der Bratpfanne langsam braten.
+- Die Tomaten mit Salz und Pfeffer abschmecken.
+- Am Schluss den Basilikum fein hacken und in die Tomatensauce mischen, ein paar kleine Blätter zum Dekorieren zurückbehalten.
+- Zusammen mit Orecchiette servieren.
 ---
+
 
