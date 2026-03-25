@@ -19,9 +19,20 @@ ingredients:
   - Minze
   - Habanero Chili (sehr wenig)
 directions:
-- Die Tomaten schälen und zerkleinern und in einer Pfanne mit etwas Knoblauch und Chili kochen.
-- Das Brot im Mixer zerkleinern, bis es Paniermehl ist. Olivenöl in der Bratpfanne erhitzen. Den Knoblauch schälen und zerdrücken, im Öl braten. Der Knoblauch darf keine Farbe bekommen.
-- Die Zucchini in Würfel schneiden.
+- Die Zucchini in Scheiben schneiden und in reichlich Olivenöl anbraten bis er schoen braun ist.
+- Gegen ende eine Zerdrueckte knoblauchzehe dazugeben.
+- Den koblacu wieder herausfischen und die Zucchini in einem Sieb darueber stellen und das Oel in der Schale auffangen. 
+- Die Tomaten blanchieren und schaelen, zerkleinern und in einer Pfanne mit etwas Knoblauch und Chili kochen.
+- Das Brot im Mixer zerkleinern, es darf auch noch grobe stuecke haben.
+- Die Zucchini mit dem Brot und einem Ei in der Schuessel ruehren. Bei bedarf ein wenig wasser dazu geben. Die Groesseren stuecke dazu geben, so dass, das feine brot zurueckbleibt.
+- Die Minze den Sbrinz und Pecorino dazu geben und unterruehren, mit salz und Muskat wuerzem und ziehen lassen
+
+
+
+
+
+
+- Olivenöl in der Bratpfanne erhitzen. Den Knoblauch schälen und zerdrücken, im Öl braten. Der Knoblauch darf keine Farbe bekommen.
 - Den Knoblauch aus dem Öl nehmen und die Zucchini portionenweise darin braun braten. Abkühlen lassen.
 - Die Zucchini in eine Schüssel geben und zerdrücken.
 - Das Ei dazugeben. Mit Salz und Pfeffer würzen.
