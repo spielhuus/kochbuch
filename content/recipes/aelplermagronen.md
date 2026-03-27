@@ -25,7 +25,7 @@ ingredients:
 directions:
 - Den Speck in kleine Würfel schneiden und in reichlich Butter in einer Pfanne langsam braten, bis er knusprig ist.
 - Wenn der Speck braun zu werden beginnt, die Zwiebel halbieren, in feine Ringe schneiden und zum Speck in die Pfanne geben. Braten, bis die Zwiebeln goldbraun sind.
-- Wenn gewünscht den Weisswein in den Topf geben und gut einkochen.
+- Wenn gewünscht den Weisswein in den Topf geben und gut einkochen. 
 - Die Kartoffeln in Würfel schneiden und in den Topf geben. Wasser hinzufügen, bis die Kartoffeln bedeckt sind.
 - Das Wasser salzen.
 - Nach ca. 5 Minuten die Älplermagronen dazugeben. Auch diese sollten mit Wasser bedeckt sein.
@@ -33,6 +33,9 @@ directions:
 - Die Temperatur reduzieren und den geriebenen Käse, etwas Rahm und eine Prise Muskatnuss dazugeben.
 - Den Peterli fein hacken und dazu geben.
 - Schwarzen Pfeffer über die Mischung mahlen und alles gut vermengen.
-- Die gesamte Mischung in eine ofenfeste Form füllen. Im vorgeheizten Ofen für ca. 20 Minuten bei 160 Grad Celsius backen. 
+- Die gesamte Mischung in eine ofenfeste Form füllen. Rahm nachgissen bis die Teigwaren bedeckt sind. Im vorgeheizten Ofen für ca. 20 Minuten bei 160 Grad Celsius backen. 
 ---
+
+Es wird alles in derselben Pfanne vorbereitet. Das Ziel dabei ist es, kein
+Wasser wegzuschütten, sondern das Wasser mit der Stärke einzukochen.
 
