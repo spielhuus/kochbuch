@@ -1,7 +1,7 @@
 ---
 layout: recipe
-date: 2026-03-08T16:51:00+01:00
-draft: true
+date: 2026-03-27T16:51:00+01:00
+draft: false
 title: "Lachs mit Linsen"
 tags:
   - Frankreich
