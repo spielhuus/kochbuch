@@ -10,11 +10,17 @@ tags:
 ingredients:
   - 100 g durchwachsener Speck
   - 4 Stangen Staudensellerie
-  - 200 g braune Linsen
-  - 200 g Spaghetti
-  - ⅛ l trockener Weißwein
+  - 200 g braune oder gruene Linsen
+  - 200 g Tomaten in Stücken geschält
+  - 200 g Pasta Tubetti
+  - ⅛ l trockener Weisswein
   - 1 Zwiebel
   - 2 Knoblauchzehen
+  - Kartoffeln
+  - Karotte
+  - Stangensellerie
+  - Loorbeerblatt
+  - Rosmarin
   - 4 EL Olivenöl
   - Salz, Pfeffer aus der Mühle
 directions:
@@ -25,3 +31,5 @@ directions:
   - Linsen mit Salz und Pfeffer kräftig würzen. Die verbliebenen 2 Selleriestangen in feine Scheibchen schneiden. 200 g Spaghetti in 3 cm lange Stücke brechen. Beides zu den Linsen geben und 8–10 Min. mitgaren. Zartes Selleriegrün fein hacken. Zum Schluß die Linsen nochmals kräftig abschmecken. Mit 3 EL Olivenöl beträufeln, Selleriegrün aufstreuen.
 ---
 
+
+https://www.lacucinaitaliana.it/article/pasta-lenticchie-ricetta-nonna-originale/
