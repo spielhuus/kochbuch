@@ -1,35 +1,39 @@
 ---
 layout: recipe
-date: 2026-03-15T16:51:00+01:00
-draft: true
+date: 2026-04-08T16:51:00+01:00
+draft: false
 title: "Pasta e lenticchie"
 tags:
 - Italien
-- Reis
+- Pasta
 
 ingredients:
-  - 100 g durchwachsener Speck
-  - 4 Stangen Staudensellerie
-  - 200 g braune oder gruene Linsen
+  - Speck
+  - Stangensellerie
+  - 1 Karotte
+  - braune oder grüne Linsen
   - 200 g Tomaten in Stücken geschält
-  - 200 g Pasta Tubetti
-  - ⅛ l trockener Weisswein
+  - Pasta Tubetti
+  - Weisswein
   - 1 Zwiebel
   - 2 Knoblauchzehen
   - Kartoffeln
-  - Karotte
-  - Stangensellerie
-  - Loorbeerblatt
+  - Lorbeerblatt
   - Rosmarin
   - 4 EL Olivenöl
   - Salz, Pfeffer aus der Mühle
 directions:
-  - 200 g Linsen mit Wasser bedeckt über Nacht einweichen.
-  - Am nächsten Tag den Speck und 1 Zwiebel in kleine Würfel schneiden. 2 Selleriestangen waschen und in Scheibchen schneiden, die beiden übrigen Stangen mit dem Grün für später beiseite legen.
-  - In einem großen Topf Speckwürfel mit 1 EL Olivenöl sanft anbraten. Zwiebel und Sellerie dazugeben und glasig dünsten. Linsen mitsamt dem Einweichwasser in den Topf geben. 2 Knoblauchzehen durch die Presse dazudrücken.
-  - Linsen 30–40 Min. sanft köcheln, ⅛ l Weißwein und nach Bedarf etwas Wasser angießen – die Linsen sollten eine suppige Konsistenz bekommen.
-  - Linsen mit Salz und Pfeffer kräftig würzen. Die verbliebenen 2 Selleriestangen in feine Scheibchen schneiden. 200 g Spaghetti in 3 cm lange Stücke brechen. Beides zu den Linsen geben und 8–10 Min. mitgaren. Zartes Selleriegrün fein hacken. Zum Schluß die Linsen nochmals kräftig abschmecken. Mit 3 EL Olivenöl beträufeln, Selleriegrün aufstreuen.
+  - Die Tomaten blanchieren und schälen, das Fruchtfleisch beiseitestellen und die Kerne und den Saft durch ein Sieb trennen
+  - Den Speck schneiden und in Butter anbraten
+  - Die Karotten würfeln und zum Speck geben
+  - Den Stangensellerie und die Zwiebel klein schneiden und, wenn die Karotten und der Speck Farbe annehmen, dazugeben.
+  - Rosmarin, Knoblauch fein hacken und mit dem Lorbeerblatt dazugeben
+  - Den Wein und das Tomatenwasser dazugeben und einkochen.
+  - Die Kartoffeln in Würfel schneiden und dazugeben, mit Wasser auffüllen, bis die Kartoffeln bedeckt sind.
+  - Nach ca. 5 Min. die Teigwaren dazugeben und wieder mit Wasser bedecken, das Wasser salzen 
+  - Die Lorbeerblätter herausnehmen
+  - Ca. 5 Min. vor Ende der Kochzeit die Linsen dazugeben
+  - Das Tomatenfleisch in Streifen schneiden und dazugeben, kurz einkochen
+  - Mit Salz und Pfeffer abschmecken
 ---
 
-
-https://www.lacucinaitaliana.it/article/pasta-lenticchie-ricetta-nonna-originale/
