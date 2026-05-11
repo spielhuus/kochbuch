@@ -21,6 +21,7 @@ ingredients:
     - Ein Lorbeerblatt 
     - Senfpulver 
     - Weisswein 
+    - Rahm
     - 1 TL Mehl 
     - 1 EL Butter 
 - 
