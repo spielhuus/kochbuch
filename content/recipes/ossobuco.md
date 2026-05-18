@@ -9,7 +9,7 @@ tags:
 ingredients:
   - heading: "Ossobuco" 
     items: 
-      - 6 (2,5 bis 3,8 cm dick) Stücke Kalbsschinken (Osso Buco) (ca. 1,8 kg gesamt) 
+      - 6 (2,5 bis 3,8 cm dick) Stücke Kalbshaxen (Osso Buco) (ca. 1,8 kg gesamt) 
       - Meersalz und frisch gemahlener schwarzer Pfeffer, geteilt 
       - 1 Tasse Allzweckmehl (140 g) 
       - 60 ml natives Olivenöl extra, plus mehr, falls nötig 
@@ -30,10 +30,10 @@ ingredients:
       - 6 mittelgroße Knoblauchzehen, fein gehackt 
 
 directions:
-- "Den Ofen auf 165 °C vorheizen. Die Kalbsschinken rundherum mit Salz und Pfeffer würzen. Wenn Kochfaden vorhanden ist, können Sie einen Stück darum festbinden; dies hilft, dass die Schinken während des Kochens ihre Form behalten, ist aber nicht zwingend erforderlich."
+- "Den Ofen auf 165 °C vorheizen. Die Kalbshaxen rundherum mit Salz und Pfeffer würzen. Wenn Kochfaden vorhanden ist, können Sie einen Stück darum festbinden; dies hilft, dass die Schinken während des Kochens ihre Form behalten, ist aber nicht zwingend erforderlich."
 - "Mehl in eine flache Schüssel geben. In einem großen Schmortopf (Dutch Oven) das Olivenöl über mittlerer bis hoher Hitze erhitzen, bis es zu schimmern beginnt. Arbeiten Sie in Portionen: Die Schinken rundherum leicht in Mehl wenden, überschüssiges Mehl abklopfen und in den Schmortopf geben; achten Sie darauf, den Topf nicht zu überfüllen (übersteigen lassen). Braten Sie die Schinken unter gelegentlichem Wenden, bis sie auf beiden Seiten hellbraun sind (ca. 4 Minuten pro Seite); reduzieren Sie bei Bedarf die Hitze, um Anbrennen zu verhindern. Geben Sie die gebräunten Schinken auf einen Teller und wiederholen Sie den Vorgang mit den restlichen Schinken; fügen Sie bei Bedarf mehr Öl in den Schmortopf hinzu, falls dieser zu trocken wird."
 - Geben Sie die Butter in den Schmortopf zusammen mit Zwiebel, Karotten, Sellerie und Knoblauch. Kochen Sie unter Rühren über mittlerer bis hoher Hitze, bis das Gemüse weich und gerade eben leicht goldbraun ist, etwa 6 Minuten.
-- Fügen Sie die Tomaten, den Wein und die Brühe zum Schmortopf hinzu, zusammen mit den Kalbsschinken und dem angesetzten Bratensaft. Versuchen Sie, die Schinken so gleichmäßig wie möglich zu verteilen (ein leichtes Überlappen ist okay, damit sie passen). Die Flüssigkeit sollte die Schinken fast, aber nicht ganz bedecken; wenn nicht, fügen Sie mehr Brühe oder Wasser hinzu. Fügen Sie Thymian und Lorbeer hinzu. Auf kleinste Hitze bringen.
+- Fügen Sie die Tomaten, den Wein und die Brühe zum Schmortopf hinzu, zusammen mit den Kalbshaxen und dem angesetzten Bratensaft. Versuchen Sie, die Schinken so gleichmäßig wie möglich zu verteilen (ein leichtes Überlappen ist okay, damit sie passen). Die Flüssigkeit sollte die Schinken fast, aber nicht ganz bedecken; wenn nicht, fügen Sie mehr Brühe oder Wasser hinzu. Fügen Sie Thymian und Lorbeer hinzu. Auf kleinste Hitze bringen.
 - Bereiten Sie einen Papierverschluss nach diesen Anweisungen vor. Decken Sie die Schinken mit dem Papierverschluss ab und geben Sie den Topf in den Ofen. Kochen Sie für 2 Stunden.
 - "In der Zwischenzeit, für die Gremolata: In einer kleinen Schüssel Petersilie, Zitronenschale und Knoblauch vermischen. Beiseite stellen."
 - Gremolata in den Topf mit Osso Buco geben.

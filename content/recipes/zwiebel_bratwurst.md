@@ -11,13 +11,19 @@ ingredients:
 - Zwiebeln (gross)
 - Butter
 - 2 Esslöffel Mehl
-- 2 dl. Rotwein 
+- 5 dl. Rotwein 
 - 2 dl. Rindsbouillon
 - 1/2 TL Senfpulver
 - 1 Loorbeerblatt
+- ein paar Salbeiblaetter
+- Knoblauch
 - Salz, Pfeffer
 
 directions:
+- Den Wein mit einem Loorberblatt langsam einkochen lassen
+- Knoblauch schaaelen und pressen, zusammen mit den Rosmarin und Salbei zu den wein geben
+
+
 - Die Zwiebeln schälen und in Ringe schneiden.
 - In einer Bratpfanne den Butter schmelzen und die Zwiebeln darin kurz rösten
 - Das Mehl dazugen und unterühren, mit rösten.

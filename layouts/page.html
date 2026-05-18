@@ -34,8 +34,15 @@
     </div>
     <div id="directions">
       {{ range .Params.directions }}
-      <li>{{ . }}</li>
-      {{ end }}
+        {{if reflect.IsMap ( . ) }}
+            <strong>{{ .heading }}</strong>
+            {{ range $item := .items }}
+              <li>{{ $item }}</li>
+            {{ end }}
+        {{ else }}
+          <li>{{ . }}</li>
+        {{ end }}
+    {{ end }}
     </div>
   </div>
 
