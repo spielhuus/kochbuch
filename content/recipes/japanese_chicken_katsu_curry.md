@@ -1,7 +1,7 @@
 --- 
 layout: recipe 
 date: 2026-05-17T16:51:00+01:00 
-draft: false 
+draft: true
 title: "Japanisches Hühnchen Katsu Curry" 
 tags: 
 - Japan 
