@@ -17,7 +17,7 @@ ingredients:
   - 2 EL Öl
   - Peperoncino
 directions:
-  - Speck klein schneiden. In einer Pfanne mit 2 EL Öl bei milder Hitze rundum anbraten.
+  - Speck klein schneiden. In einer Pfanne mit 2 EL Öl bei milder Hitze anbraten.
   - Zwiebel in Ringe schneiden, untermischen und glasig dünsten.
   - Die tomaten blanchieren und schälen
   - Den Chili und Knoblauch fein hacken und zum Speck geben.
