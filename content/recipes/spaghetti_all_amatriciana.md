@@ -17,9 +17,9 @@ ingredients:
   - 2 EL Öl
   - Peperoncino
 directions:
+  - Die tomaten blanchieren im kalten Wasser kühlen und schälen 
   - Speck klein schneiden. In einer Pfanne mit 2 EL Öl bei milder Hitze anbraten.
   - Zwiebel in Ringe schneiden, untermischen und glasig dünsten.
-  - Die tomaten blanchieren und schälen
   - Den Chili und Knoblauch fein hacken und zum Speck geben.
   - Die Tomaten Würfeln und zum Speck geben, kochen lassen
   - Die Spaghetti kochen

@@ -28,9 +28,9 @@ directions:
 - Die Schenkel wieder in die Pfanne geben und 200 ml Weisswein darübergiessen. 
 - Zugedeckt für ca. 40-50 Minuten köcheln lassen. 
 - Die Schenkel herausnehmen und im Backofen warmhalten. 
-- Die Flüssigkeit durch ein Sieb giessen und zurück in die Pfanne geben, dann einkochen. 
+- Die Flüssigkeit durch ein Sieb giessen und zurück in die Pfanne geben, dann einkochen. Ein wenig beiseitestellen und abkühlen lassen.
 - Mit schwarzem Pfeffer nachwürzen. Den Rahm dazugeben und weiter einkochen. 
-- Die Hitze reduzieren, die Eigelbe verrühren und einen Teelöffel Senf dazugeben. In die Sauce rühren. 
+- Die Hitze reduzieren, die Eigelbe in der beiseitegestellten Sauce verrühren und einen Teelöffel Senf dazugeben. In die Sauce rühren. 
 - Die Pouletschenkel wieder dazugeben und servieren. 
 --- 
 
