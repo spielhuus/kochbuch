@@ -27,10 +27,9 @@ directions:
 - Den Spinat waschen und putzen und zu den Zwiebeln geben, braten, bis er zusammenfällt. Das Ganze in die Schüssel zum Spargel geben. 
 - Die Eier zum Gemüse geben. 
 - Schinken in Streifen schneiden und dazugeben. 
-- Käse reiben und dazu geben. 
+- Käse in Würfel schneiden und dazu geben. 
 - Alles verquirlen und mit Salz und Pfeffer würzen. 
-- Die Mischung in einer Bratpfanne mit Butter anbraten. Wenn es beginnt festzuwerden, mit einer Holzschaufel die Ränder formen. 
-- Wenn die Oberfläche beginnt fest zu werden, mit einem vorgeheizten Teller wenden. 
-- Auf der anderen Seite fertig garen. 
+- Die Mischung in einer Bratpfanne mit Butter anbraten. Wenn die Ränder beginnen festzuwerden, mit einer Holzschaufel die Ränder formen. 
+- Mit einem vorgeheizten Teller wenden, auf der anderen Seite fertig garen. 
 ---
 
