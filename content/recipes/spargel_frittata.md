@@ -11,7 +11,7 @@ ingredients:
 - 4 Stangen grüner Spargel 
 - 4 Kartoffeln
 - 6 Shishito-Paprikaschoten oder Pimientos de Padrón 
-- 1/2 rote Zwiebel 
+- 3 Frühlingszwiebeln
 - 3 Knoblauchzehen 
 - 60g Spinatblätter 
 - 90 g Schinken (Emmentaler, Gruyere, Apenzeller)
