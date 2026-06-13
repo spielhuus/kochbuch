@@ -14,8 +14,8 @@ ingredients:
 - 3 Frühlingszwiebeln
 - 3 Knoblauchzehen 
 - 60g Spinatblätter 
-- 90 g Schinken (Emmentaler, Gruyere, Apenzeller)
-- 120 g Cheddar 
+- 90 g Schinken 
+- 120 g Cheddar (Emmentaler, Gruyere, Apenzeller)
 - Olivenöl 
 - Salz und schwarzer Pfeffer 
  
