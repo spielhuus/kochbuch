@@ -30,6 +30,6 @@ directions:
 - Käse in Würfel schneiden und dazu geben. 
 - Alles verquirlen und mit Salz und Pfeffer würzen. 
 - Die Mischung in einer Bratpfanne mit Butter anbraten. Wenn die Ränder beginnen festzuwerden, mit einer Holzschaufel die Ränder formen. 
-- Mit einem vorgeheizten Teller wenden, auf der anderen Seite fertig garen. 
+- Nach 5 minuten mit einem feuchten Teller wenden, auf der anderen Seite fertig garen. 
 ---
 

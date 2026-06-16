@@ -5,7 +5,8 @@ draft: true
 title: "Gegrillter Kartoffelsalat"
 
 ingredients: 
-  - 2 Pfund kleine gelbe oder rotschalige neue Kartoffeln 
+  - 1kg Kartoffeln 
+
   - Koscheres Salz 
   - 2 Esslöffel frisch gehacktes Oregano, aufgeteilt 
   - 2 Esslöffel frisch gehackte Petersilienblätter, aufgeteilt 
@@ -19,6 +20,10 @@ ingredients:
 
 
 directions: 
+  - Die Kartoffeln in Salzwasser 5 min kochen, das wasser abschuetten und abkuuehlen lassen.
+  - 
+
+
   - Legen Sie Kartoffeln in einen großen Topf und bedecken Sie sie mit kaltem Wasser. Würzen Sie sie großzügig mit Salz und bringen Sie sie bei hoher Hitze zum Kochen. Lassen Sie sie köcheln, bis die Kartoffeln weich, aber nicht auseinanderfallen, etwa 5 Minuten. Gießen Sie die Kartoffeln ab, geben Sie sie auf ein Backblech mit Rand, damit überschüssige Feuchtigkeit verdampfen kann. 
   - Wenn die Kartoffeln abgekühlt sind, so dass man sie anfassen kann, teilen Sie jede der Länge nach in zwei Hälften und geben Sie sie in eine große Schüssel. Fügen Sie die Hälfte des Oreganos, die Hälfte des Petersilie, die Hälfte des Knoblauchs und die Hälfte des Olivenöls hinzu. Würzen Sie nach Geschmack mit Salz und Pfeffer und werfen Sie die Kartoffeln grob um, bis sie gut mit der Mischung überzogen sind und ihre Oberflächen ein wenig aufgeraut sind. 
   - Vermischen Sie den restlichen Oregano, Petersilie, Olivenöl, Knoblauch, Frühlingszwiebeln, Schalotten und Senf in einer großen Schüssel. 
