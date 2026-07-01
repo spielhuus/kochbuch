@@ -23,7 +23,7 @@ ingredients:
   - 1 Lorbeerblatt
   - Glatte Petersilie
   - Koriander
-  - Zitronenspalten, zum Servieren
+  - 1 Zitrone (oder eine eingelegte Zitrone)
   - Butter
   - Salz und Pfeffer
  
@@ -33,6 +33,7 @@ directions:
   - In einer Pfanne die Butter bei mittlerer Hitze schmelzen lassen. Die Zwiebel in Ringe schneiden und dazugeben, garen, bis sie weich ist.  
   - Die Gewürze dazugeben und unter Rühren kurz mit anschwitzen.
   - Den Reis unterrühren und die Brühe darübergießen, je nach Brühe salzen.
+  - Eine Halbe Zitrone zum Reis geben.
   - Kochen, bis der Reis gar ist, und mit Salz und Pfeffer abschmecken.
   - Die Petersilie und den Koriander kleinhacken und zusammen mit dem Fisch unterrühren.
   - Die Zitrone in Schnitze schneiden.
