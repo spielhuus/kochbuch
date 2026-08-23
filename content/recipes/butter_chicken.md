@@ -43,17 +43,18 @@ ingredients:
         - Salz
 
 directions: 
-- Das Poulet zerlegen und das Fleisch in Würfel schneiden.
-- Die Knochen und das restliche Fleisch in Wasser ca. 1 h köcheln lassen.
-- Das Garam Masala zusammen mit den Bockshornkleesamen und Salz im Mörser zu einem Pulver zermahlen.
-- Die Tomaten blanchieren und im Sieb von den Kernen befreien.
-- Die Marinade zubereiten und das Fleisch damit einreiben. Ca. 1 Stunde ruhen lassen.
-- Das Fleisch auf der Hautseite kräftig anbraten und zur Seite legen.
-- Die Bouillon absieben und weiter köcheln lassen.
+- Das Poulet zerlegen und die beine und brust beisetestellen.
+- Die Knochen und das restliche Fleisch in Wasser ca. 4 h köcheln lassen.
 - Knoblauch und Ingwer schälen und im Mörser zu einer Paste stampfen.
+- Das Garam Masala zusammen mit den Bockshornkleesamen und Salz im Mörser zu einem Pulver zermahlen.
+- Die Marinade zubereiten und das Fleisch damit einreiben. Ca. 2 Stunde ruhen lassen.
+- Die Tomaten blanchieren und im Sieb von den Kernen befreien.
 - In einer Bratpfanne die Butter schmelzen, die Zwiebeln anschwitzen und die Knoblauch-Ingwer-Paste sowie die Gewürze dazugeben.
 - Die Tomaten dazugeben und etwas einkochen lassen.
 - Die Bouillon zugießen und weiter einkochen lassen.
+
+- Das Fleisch auf der Hautseite kräftig anbraten und zur Seite legen.
+- Die Bouillon absieben und weiter köcheln lassen.
 - Die Hitze reduzieren und den Rahm unterrühren.
 - Ist die gewünschte Konsistenz erreicht, das Fleisch untermischen und durchziehen lassen.
 ---
