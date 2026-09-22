@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2026-09-12
-draft: true
+draft: false
 title: "Tortellini alla panna"
 tags:
 - Italien
