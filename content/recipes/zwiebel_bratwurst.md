@@ -8,28 +8,29 @@ tags:
 
 ingredients:
 - 4 Kalbsbratwürste
-- Zwiebeln (gross)
-- Butter
+- 2 Zwiebeln
+- 1 Karotte
+- 1 dicke Scheibe Knollensellerie (ca. 80 g)
+- 1 Knoblauchzehe
 - 2 Esslöffel Mehl
-- 5 dl. Rotwein 
-- 2 dl. Rindsbouillon
+- 2 Esslöffel Butter
+- 5 dl Rotwein
+- 2 dl Rindsbouillon
 - 1/2 TL Senfpulver
-- 1 Loorbeerblatt
-- ein paar Salbeiblaetter
-- Knoblauch
+- 1 Lorbeerblatt
+- 1 Zweig Rosmarin
+- Einige Salbeiblätter
 - Salz, Pfeffer
+- 1–2 Esslöffel Bratöl zum Braten der Bratwürste
+- Rösti für 4 Personen (ca. 600 g festkochende Kartoffeln, 1 Zwiebel, 1–2 Esslöffel Butterschmalz)
 
 directions:
-- Den Wein mit einem Loorberblatt langsam einkochen lassen
-- Knoblauch schaaelen und pressen, zusammen mit den Rosmarin und Salbei zu den wein geben
-
-
-- Die Zwiebeln schälen und in Ringe schneiden.
-- In einer Bratpfanne den Butter schmelzen und die Zwiebeln darin kurz rösten
-- Das Mehl dazugen und unterühren, mit rösten.
-- Das Senfpulver und das Loorbeerblatt dazegeben.
-- Mit dem Rotwein ablöschen und ein wenig einkochen lassen.
+- Karotte und Sellerie grob schneiden und in Butter anbraten, bis das Gemüse Farbe angenommen hat.
+- Eine Zwiebel in Ringe schneiden und zum Gemüse geben.
+- Eine Knoblauchzehe zerdrücken und hacken, zusammen mit 1 EL Mehl und Senfpulver zum Gemüse geben und anbraten.
+- Den Wein, das Lorbeerblatt, Rosmarin und Salbei dazugeben und einkochen lassen.
 - Die Bouillon dazugeben und bis zur gewünschten Konsistenz köcheln lassen. Mit Salz und Pfeffer abschmecken.
-- Bratwürste nach Belieben einschneiden und in einer Bratpfanne mit dem Bratöl goldbraun braten.
+- Die Bratwürste nach Belieben einschneiden und in einer Bratpfanne mit dem Bratöl goldbraun braten.
 - Zusammen mit der Rösti servieren.
 ---
+
