@@ -12,30 +12,29 @@ cookTime: 120
 ingredients:
 - 500-600 g Gulaschfleisch (Rind oder Schwein)
 - 1/2 Knollensellerie
-- 2 Zwiebeln
+- 1 Rüebli
+- 1 Zwiebel
 - 1 Knoblauchzehe
 - 1 rote Paprika
-- Habanero Chili (je nach gewünschter Schärfe)
-- 2 Zweige frischer Salbei
-- 1 Zweig frischer Rosmarin
+- Habanero-Chili
+- 1 EL Tomatenmark
 - 2 EL Butter
-- 3 EL Mehl (1 EL zum Bestäuben, 2 EL für Beurre manié)
 - 2-3 Kartoffeln
 - 1 TL edelsüsses Paprikapulver
 - 1-2 Lorbeerblätter
 - ca. 750 ml Wasser oder Rinderbrühe
 - Salz und Pfeffer
-- "Optional: Rotwein"
 - "Optional: Eier zum Servieren"
 
 directions:
-- Den Knollensellerie würfeln und in 1 EL Butter in einem grossen Topf langsam anbraten, bis er leicht Farbe annimmt.
-- In der Zwischenzeit die Zwiebeln in feine Ringe schneiden. Sobald der Sellerie Farbe angenommen hat, die Zwiebeln hinzufügen und weich dünsten.
-- Die Paprika schälen, entkernen und in feine Streifen schneiden. Zu den Zwiebeln geben und kurz mitdünsten.
-- Knoblauch, Salbei, Rosmarin und Habanero Chili fein hacken. Zum Gemüse geben und kurz mitbraten, bis es duftet.
-- Das Gemüse mit 1 EL Mehl bestäuben und kurz mitrösten. Das edelsüsse Paprikapulver hinzufügen und kurz mitrösten.
-- "Optional: Rotwein in die Pfanne geben und einkochen lassen"
-- Das Gulaschfleisch hinzufügen, mit Wasser oder Brühe aufgiessen, sodass das Fleisch bedeckt ist.
+- Den Knollensellerie und das Rüebli würfeln und in 1 EL Butter in einem grossen Topf langsam anbraten.
+- Den Paprika in feine Ringe schneiden und mitbraten, bis er langsam dunkel wird.
+- In der Zwischenzeit die Zwiebeln in feine Ringe schneiden. Die Zwiebeln hinzufügen und weich dünsten.
+- Knoblauch und Habanero-Chili fein hacken. Zum Gemüse geben und kurz mitbraten.
+- Tomatenmark dazugeben und anbraten.
+- Das Paprikapulver hinzufügen und kurz mitrösten.
+- Das Gulaschfleisch hinzufügen und anbraten, mehrfach umrühren.
+- Mit Wasser oder Brühe aufgiessen, sodass das Fleisch bedeckt ist.
 - Die Lorbeerblätter hinzugeben.
 - Das Gulasch zugedeckt bei niedriger Hitze für etwa 1,5 Stunden schmoren lassen.
 - Die Kartoffeln schälen, würfeln und etwa 30 Minuten vor Ende der Garzeit zum Gulasch geben.
@@ -44,3 +43,5 @@ directions:
 - Das Gulasch mit Salz und Pfeffer abschmecken.
 - "Optional: Nach Belieben Spiegeleier dazu servieren."
 ---
+
+

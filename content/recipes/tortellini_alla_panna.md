@@ -30,15 +30,17 @@ ingredients:
       - 1 Ei 
  
 directions: 
+- Das Brötchen in heissem Wasser oder Builong einweichen. 
+- Das eingeweichte Brötchen unter das Hackfleisch mischen. 
+- Die Zwiebel und den Knoblauch fein hacken und mit dem Ei, Senf und den Gewürzen zum Hackfleisch geben und vermischen. 
+
 - Tortellini kochen. 
 - Schinken in Streifen schneiden. 
 - Butter in einer Pfanne erhitzen und den Schinken leicht anbraten. 
 - Mit der Hälfte des Rahms ablöschen und bei geringer Hitze köcheln lassen. 
 - Den Rest des Rahms in einer Schüssel mit den Eigelben, Parmesan, Salz, Pfeffer und Muskat verrühren. 
 - Die Sauce zusammen mit den Tortellini zu dem Schinken in die Pfanne geben und köcheln lassen, bis eine dickflüssige Sauce entsteht. 
-- Das Brötchen in heissem Wasser einweichen. 
-- Das eingeweichte Brötchen unter das Hackfleisch mischen. 
-- Die Zwiebel und den Knoblauch fein hacken und mit dem Ei, Senf und den Gewürzen zum Hackfleisch geben und vermischen. 
+
 - Gleich grosse Bülette formen und in den Semmelbröseln wenden. 
 - In einer Bratpfanne bei mittlerer Hitze braten. 
 ---
