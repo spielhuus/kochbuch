@@ -1,14 +1,22 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+{{- /* Publish the logo font from assets/fonts/ (if shipped) and hand its
+     fingerprinted URL to Sass as $logoFontURL. main.scss only emits an
+     @font-face when that variable exists, so a missing file degrades to the
+     fallback stack instead of 404ing on every request. */ -}}
+{{- $vars := site.Params.styles | default dict -}}
+{{- with resources.Get "fonts/C64_Pro-STYLE.woff2" -}}
+  {{- $font := resources.Copy "fonts/C64_Pro-STYLE.woff2" . | fingerprint -}}
+  {{- $vars = merge $vars (dict "logoFontURL" $font.RelPermalink) -}}
+{{- end -}}
 {{ with resources.Get "sass/main.scss" }}
   {{ $opts := dict
     "enableSourceMap" hugo.IsDevelopment
     "outputStyle" (cond hugo.IsDevelopment "expanded" "compressed")
     "targetPath" "css/main.css"
     "transpiler" "dartsass"
-    "vars" site.Params.styles
-    "includePaths" (slice "node_modules/bootstrap/scss")
+    "vars" $vars
   }}
   {{ with . | toCSS $opts }}
     {{ if hugo.IsDevelopment }}
@@ -20,3 +28,5 @@
     {{ end }}
   {{ end }}
 {{ end }}
+
+

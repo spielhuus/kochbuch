@@ -1,0 +1,19 @@
+{{- /*
+Section page (e.g. /recipes/): index layout - gallery grid, centred content,
+paginator.
+
+NOTE: legacy `layouts/section.html` is ignored by modern Hugo, see _default/.
+*/ -}}
+{{ define "main" }}
+<div class="image-gallery">
+  {{ partial "items.html" . }}
+</div>
+<div class="container mt4 mb4">
+  <div class="sm-col-6 mx-auto px3 sm-px4">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "paginator.html" . }}
+{{ end }}
+

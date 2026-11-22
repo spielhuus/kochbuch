@@ -1,0 +1,21 @@
+{{- /*
+Taxonomy term page (e.g. /tags/italia/): index layout - gallery grid of the
+recipes carrying that term, page content in the centred container, paginator.
+
+NOTE: legacy `layouts/term.html` is ignored by modern Hugo, see _default/.
+*/ -}}
+{{ define "main" }}
+<div class="image-gallery">
+  {{ partial "items.html" . }}
+</div>
+<div class="container mt4 mb4">
+  <div class="sm-col-6 mx-auto px3 sm-px4">
+    {{/* No <h1> here: the term name now lives in the site header
+        ("kochbuch :: Italien", see _partials/header.html). */}}
+    {{ .Content }}
+  </div>
+</div>
+{{ partial "paginator.html" . }}
+{{ end }}
+
+

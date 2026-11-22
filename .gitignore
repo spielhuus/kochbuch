@@ -14,3 +14,5 @@ __pycache__
 .hugo_build.lock
 public
 resources/_gen
+.nvim/
+.octavo_cache.json

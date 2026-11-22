@@ -1,0 +1,45 @@
+{{- /*
+Resolves the hero image for a page and returns the source resource; callers
+resize it themselves (400x for the gallery, 800x for the page body).
+
+Lookup order, first hit wins:
+  1. page param `image` — a file inside assets/images/, extension optional
+     (image: carbonara | carbonara.jpg | carbonara.png). Only the base name is
+     used, so a path written in front matter is tolerated.
+  2. images/<slug>.jpg then images/<slug>.png, slug taken from the page URL
+  3. fallback images/plate-161124_1280.png
+
+Warns once per page when it had to fall back, listing every path it tried.
+
+@context {page} page The page to resolve the image for.
+@example: {{ $image := partial "recipe-image.html" . }}
+*/ -}}
+{{- $page := . -}}
+{{- $fallback := "images/plate-161124_1280.png" -}}
+{{- $candidates := slice -}}
+{{- with $page.Params.image -}}
+  {{- $file := path.Base . -}}
+  {{- if not (path.Ext $file) -}}
+    {{- $file = printf "%s.jpg" $file -}}
+  {{- end -}}
+  {{- $candidates = $candidates | append (path.Join "images" $file) -}}
+{{- end -}}
+{{- $slug := $page.RelPermalink | path.Base -}}
+{{- $candidates = $candidates | append (printf "images/%s.jpg" $slug) (printf "images/%s.png" $slug) -}}
+{{- /* `return` is only honoured as the last action of a partial: a `return`
+     nested in with/range is ignored and the partial would hand back its
+     rendered output (template.HTML), which has no .Resize. So collect the
+     first hit into $image with block-safe `=` reassignment and return once. */ -}}
+{{- $image := false -}}
+{{- range $candidates -}}
+  {{- if not $image -}}
+    {{- $image = resources.Get . -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- warnf "No image for page %s: tried %s — falling back to %s" $page.Path (delimit $candidates ", ") $fallback -}}
+  {{- $image = resources.Get $fallback -}}
+{{- end -}}
+{{- return $image -}}
+
+

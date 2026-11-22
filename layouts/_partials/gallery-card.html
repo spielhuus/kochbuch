@@ -1,0 +1,35 @@
+{{- /*
+One card of the index / taxonomy gallery grid: a link that carries the page
+thumbnail as a background and the title as an overlay.
+
+Taxonomy overview pages list taxonomy term pages, which own no image of their
+own, so a term is illustrated with the thumbnail of its first recipe. Terms
+without recipes render a text-only card.
+
+@context {dict} context "page" = page to render (recipe page or taxonomy term).
+@example: {{ partial "gallery-card.html" (dict "page" .) }}
+*/ -}}
+{{- $page := .page -}}
+{{- $source := $page -}}
+{{- if eq $page.Kind "term" -}}
+  {{- $source = false -}}
+  {{- with $page.Pages -}}
+    {{- $source = index . 0 -}}
+  {{- end -}}
+{{- end -}}
+<div class="gallery-item">
+  <a class="block relative bg-blue" href="{{ $page.RelPermalink }}">
+    {{ if $page.Draft }}
+      <div class="draft-ribbon">DRAFT</div>
+    {{ end }}
+    {{ with $source }}
+      {{ $image := partial "recipe-image.html" . }}
+      {{ with $image }}
+        {{ $thumb := .Resize "400x" }}
+        <div class="ratio bg-cover" style="background-image:url({{ $thumb.RelPermalink }});"></div>
+      {{ end }}
+    {{ end }}
+    <h1 class="title p2 m0 absolute white bottom-0 left-0 title-shadow">{{ $page.LinkTitle }}</h1>
+  </a>
+</div>
+

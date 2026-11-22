@@ -1,0 +1,69 @@
+{{- /*
+Single content page (a recipe). Moved verbatim from the legacy root file
+`layouts/page.html`, which modern Hugo ignores.
+*/ -}}
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format ":date_long" }}
+  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+
+  <div class="image">
+    {{ $image := partial "recipe-image.html" . }}
+    {{ with $image }}
+      {{ $resized := .Resize "800x" }}
+      <img 
+        src="{{ $resized.RelPermalink }}" 
+        width="{{ $resized.Width }}" 
+        height="{{ $resized.Height }}" 
+        alt="A photo for the page: {{ $.Page.Title }}">
+    {{ end }}
+  </div>
+
+  <div class="recipe-layout">
+    <div id="ingredients">
+      {{ with .Params.ingredients }}
+        {{ if reflect.IsMap (index . 0) }}
+          {{ range . }}
+            <strong>{{ .heading }}</strong>
+            <ul>
+              {{ range $item := .items }}
+                <li>{{ $item }}</li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        {{ else }}
+          <ul>
+            {{ range $item := . }}
+              <li>{{ $item }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      {{ end }}
+    </div>
+    <div id="directions">
+      {{ with .Params.directions }}
+        {{ if reflect.IsMap (index . 0) }}
+          {{ range . }}
+            <strong>{{ .heading }}</strong>
+            <ol>
+              {{ range $item := .items }}
+                <li>{{ $item }}</li>
+              {{ end }}
+            </ol>
+          {{ end }}
+        {{ else }}
+          <ol>
+            {{ range $item := . }}
+              <li>{{ $item }}</li>
+            {{ end }}
+          </ol>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}
+

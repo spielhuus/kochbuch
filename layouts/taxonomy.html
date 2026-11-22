@@ -1,7 +1,10 @@
-{{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-    <h2>x <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-  {{ end }}
-{{ end }}
+{{- /*
+DEAD FILE - delete it. A template named `taxonomy.html` directly in layouts/
+is a legacy pre-v0.55 lookup name that modern Hugo ignores, so the taxonomy
+overview page falls back to Hugo's built-in list template (<h1> + <h2> links).
+The real template lives in layouts/_default/taxonomy.html.
+*/ -}}
+
+
+
+

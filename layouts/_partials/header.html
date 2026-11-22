@@ -1,9 +1,18 @@
-<h1><a href="{{ .Site.Home.RelPermalink }}" id="logo">{{ site.Title }}</a></h1>
+{{- /*
+Site header. The logo links home; on a taxonomy overview page (/tags/) and on a
+taxonomy term page (/tags/italien/) it grows into a breadcrumb path
+"kochbuch :: Italien" that names the taxonomy / term being shown.
+*/ -}}
+{{- $isTaxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{- $name := .Data.Plural }}
+{{- with .Data.Term }}{{ $name = . }}{{ end }}
+<h1>
+  <a href="{{ .Site.Home.RelPermalink }}" id="logo">{{ site.Title }}</a>
+  {{- if $isTaxonomy }}
+    <span class="path-separator" aria-hidden="true">::</span>
+    <span class="path-term"{{ if eq .Kind "term" }} aria-current="page"{{ end }}>{{ $name | title }}</span>
+  {{- end }}
+</h1>
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-<div class="arrows">
-  <div class="arrow white"></div>
-  <div class="arrow orange-light"></div>
-  <div class="arrow orange"></div>
-  <div class="arrow red"></div>
-  <div class="arrow purple"></div>
-</div>
+
+
