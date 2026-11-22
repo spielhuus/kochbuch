@@ -4,8 +4,7 @@ date: 2021-11-21T16:46:58+01:00
 draft: false 
 title: "Schwäbische Linsen mit Spätzle und Wienerli" 
 tags: 
-  - Deutsch 
- 
+  - Deutschland
 ingredients: 
 - 2 Stangen Lauch 
 - 1 Scheibe Knollensellerie 

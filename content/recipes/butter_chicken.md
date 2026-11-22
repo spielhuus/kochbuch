@@ -20,14 +20,14 @@ ingredients:
         - Koriandersamen
         - Muskatnuss (ganz)
 -
-    heading: "Fleisch Marinade" 
+    heading: "Fleischmarinade" 
     items: 
-        - 4 Knoblauchzehen gepresst
-        - 2 EL Joghurt 3,5% Fett
+        - 4 Knoblauchzehen, gepresst
+        - 2 EL Joghurt (3,5 % Fett)
         - 3 EL Olivenöl
-        - ½ Zitrone Saft der Zitrone
+        - Saft von ½ Zitrone
         - ½ TL Kurkuma
-        - 1 TL Chili- und Paprikapulver
+        - je 1 TL Chili- und Paprikapulver
         - 1 TL Garam Masala
 -
     heading: "Sauce" 
@@ -35,7 +35,7 @@ ingredients:
         - Ganzes Poulet
         - Ingwer
         - Knoblauch
-        - Zwiebel
+        - Zwiebeln
         - Bockshornkleesamen
         - 80 g Butter
         - 3 Tomaten
@@ -43,18 +43,21 @@ ingredients:
         - Salz
 
 directions: 
-- Das Poulet zerlegen und die beine und brust beisetestellen.
-- Die Knochen und das restliche Fleisch in Wasser ca. 4 h köcheln lassen.
+- Das Poulet zerlegen und die Keulen sowie die Brust beiseitestellen.
+- Die Karkassen und das Parierfleisch mit Wasser bedecken und ca. 4 Stunden köcheln lassen.
 - Knoblauch und Ingwer schälen und im Mörser zu einer Paste stampfen.
 - Das Garam Masala zusammen mit den Bockshornkleesamen und Salz im Mörser zu einem Pulver zermahlen.
-- Die Marinade zubereiten und das Fleisch damit einreiben. Ca. 2 Stunde ruhen lassen.
-- Die Tomaten blanchieren und im Sieb von den Kernen befreien.
+- Die Marinade zubereiten und das Fleisch damit einreiben. Anschliessend ca. 2 Stunden ruhen lassen.
+- Die Tomaten blanchieren, häuten und durch ein Sieb passieren, dabei die Kerne entfernen.
 - In einer Bratpfanne die Butter schmelzen, die Zwiebeln anschwitzen und die Knoblauch-Ingwer-Paste sowie die Gewürze dazugeben.
 - Die Tomaten dazugeben und etwas einkochen lassen.
-- Die Bouillon zugießen und weiter einkochen lassen.
+- Die Bouillon dazugiessen und unter Rühren auf die Hälfte reduzieren.
 
-- Das Fleisch auf der Hautseite kräftig anbraten und zur Seite legen.
-- Die Bouillon absieben und weiter köcheln lassen.
+- Das Fleisch rundum, zuerst auf der Hautseite, kräftig anbraten und beiseitestellen.
+- Die Bouillon absieben und bei kleiner Hitze sämig einkochen.
 - Die Hitze reduzieren und den Rahm unterrühren.
-- Ist die gewünschte Konsistenz erreicht, das Fleisch untermischen und durchziehen lassen.
+- Ist die gewünschte Konsistenz erreicht, das Fleisch untermischen und ca. 10 Minuten durchziehen lassen (Kerntemperatur 74 °C).
 ---
+
+
+

@@ -18,17 +18,25 @@ $colors: (
   }
   --base: 0.8rem;
   --width: 960px;
-  --arrow-height: calc(2 * var(--base));
-  --grid-gutter: var(--base);
-  --grid-height: calc(2 * var(--base));
-  --arrow-file: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 128' preserveAspectRatio='none'%3e%3cpath d='M0 0l500 64 500-64v64l-500 64L0 64z'/%3e%3c/svg%3e");
+  --font-body: "Roboto Mono", ui-monospace, monospace;
 }
 
-@font-face {
-  font-family: 'C64_Pro-STYLE';
-  src: url(../fonts/C64_Pro-STYLE.woff2) format('woff2');
-  font-weight: normal;
-  font-style: normal;
+/* Logo font. layouts/partials/head.html publishes assets/fonts/C64_Pro-STYLE.woff2
+   and injects its URL as the $logoFontURL Sass variable. The @font-face is only
+   emitted when that variable exists: the previous hard-coded relative url() resolved
+   to /fonts/C64_Pro-STYLE.woff2, which is not in the repo and 404s on every page. */
+$font-logo: "Roboto Mono", ui-monospace, monospace !default;
+
+@if global-variable-exists("logoFontURL") {
+  @font-face {
+    font-family: "C64 Pro";
+    src: url("#{$logoFontURL}") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  $font-logo: "C64 Pro", "Roboto Mono", ui-monospace, monospace;
 }
 
 * {
@@ -42,7 +50,11 @@ $colors: (
 
 html {
   color: #232333;
-  font-family: "Roboto Mono", monospace;
+  /* No webfont is loaded for this: "Roboto Mono" is used only if the visitor
+     has it installed, then we fall back to the system mono stack. Self-host it
+     under assets/fonts/ if the look matters (embedding Google Fonts is a GDPR
+     problem for a CH/DE site). */
+  font-family: var(--font-body);
   font-size: 93.75%;
   line-height: 1.6em;
   hyphens: auto;
@@ -189,8 +201,6 @@ header {
     margin: 1em 0 0 0.5em;
     padding: 0;
     flex-basis: 50%;
-    transform-origin: 0% 100%;
-    transform: rotate(2deg);
     position: relative;
     z-index: 10;
 
@@ -200,7 +210,7 @@ header {
 
     > a {
       text-decoration: none;
-      font-family: "C64_Pro-STYLE";
+      font-family: $font-logo;
       font-size: 2em;
       color: var(--orange);
 
@@ -208,10 +218,57 @@ header {
         color: var(--yellow);
       }
     }
+
+    /* Breadcrumb path on taxonomy / term pages: "kochbuch :: Italien".
+       --yellow is too pale on the white page, so the path uses the blue ramp. */
+    .path-separator,
+    .path-term {
+      font-family: $font-logo;
+      font-size: 2em;
+      font-weight: normal;
+    }
+
+    .path-separator {
+      padding: 0 0.3em;
+      color: var(--orange);
+    }
+
+    .path-term {
+      color: var(--lightblue);
+    }
   }
 
-  > .arrows {
-    margin-bottom: var(--grid-height);
+  /* Header nav emitted by menu.html as <nav><ul><li><a>, previously unstyled.
+     menu.html marks the current page with class="active" ("ancestor" for
+     parents) plus aria-current, so the active state below is data-driven. */
+  nav {
+    margin: 0.25em 0 0 0.5em;
+
+    ul {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25em 1em;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    a {
+      display: inline-block;
+      padding: 0.2em 0.4em;
+      text-decoration: none;
+      color: var(--blue);
+
+      &:hover {
+        color: var(--lightblue);
+      }
+    }
+
+    .active,
+    .ancestor {
+      color: var(--darkblue);
+      border-bottom: 2px solid var(--orange);
+    }
   }
 }
 
@@ -219,52 +276,10 @@ header {
   margin: 4em 0 2em;
   text-align: center;
 }
-//
-// .arrow {
-//   position: relative;
-//   height: var(--grid-height);
-//   background: var(--color);
-//
-//   &::after {
-//     content: "";
-//     display: block;
-//     position: absolute;
-//     left: 0;
-//     width: 100%;
-//     height: var(--arrow-height);
-//     background: var(--color);
-//     top: 100%;
-//     mask-image: var(--arrow-file);
-//     mask-size: 100% 200%;
-//     mask-position: 0 100%;
-//     mask-repeat: no-repeat;
-//   }
-//
-//   @for $i from 1 through 7 {
-//     &:nth-of-type(#{$i}) {
-//       z-index: 10 - $i;
-//     }
-//   }
-//
-//   $arrow-color-names: "darkblue", "blue", "lightblue", "purple", "pink", "yellow", "white";
-//   @each $name in $arrow-color-names {
-//     &.#{$name} {
-//       --color: var(--#{$name});
-//     }
-//   }
-//   // TODO define them in map
-//   // Manual overrides for colors not in the map
-//   &.red { --color: hsl(15.9deg 64.8% 49%); }
-//   &.orange-light { --color: hsl(37.8deg 78.9% 68.4%); }
-//   &.orange { --color: hsl(30.2deg 73.4% 52.7%); }
-//   &.green { --color: hsl(51.3deg 26.6% 40.6%); }
-// }
-//
-// header > .arrows,
-// footer > .arrows {
-//   width: 100%;
-//   transform: scaleX(1.1);
-// }
+/* The zig-zag arrow motif (.arrow, header > .arrows, footer > .arrows) lived
+   here fully commented out while header.html and footer.html kept emitting 10
+   unstyled <div class="arrow …"> per page. Markup and --arrow-* / --grid-*
+   tokens are removed together; restore all three at once if you want it back. */
 
 .icon {
   display: inline-block;
@@ -290,3 +305,9 @@ header {
   width: 48px;
   height: 47px;
 }
+
+
+
+
+
+

@@ -1,19 +1,11 @@
 ---
 layout: recipe
 date: 2025-01-09
-draft: false 
+draft: false
 title: "Risotto ai Funghi e Taleggio" # The title of your awesome recipe
-image: IMG20250916204358.jpg
 imagecredit: reddit
-YouTubeID: # The F2SYDXV1W1w part of https://www.youtube.com/watch?v=F2SYDXV1W1w
-authorName: # Name of the recipe/article author
-authorURL: # URL of their home website
-sourceName: # Name of the source website
-sourceURL: # Actual URL of the recipe itself
-category: # The type of meal or course your recipe is about. For example: "dinner", "entree", or "dessert".
-cuisine: # The region associated with your recipe. For example, "French", Mediterranean", or "American".
-tags: # You don't have to have 3, feel free to have 10, 1, or none
-  - italian
+tags:
+  - Italien
 yield: 3
 prepTime: "?"
 cookTime: "?"
@@ -25,21 +17,22 @@ ingredients:
 - 1 Zwiebel
 - 1 Lauch
 - 200 g Arborio-Reis
-- Huenerbruehe
+- Hühnerbrühe
 - 113 g Taleggio-Käse (ohne Rinde)
-- 50 Parmesankäse
+- 50 g Parmesan
 - Petersilie
-- Saft von 1 Zitrone
+- Saft einer Zitrone
 - Olivenöl
 
 directions:
-- Die Steinpilze in eine Schüssel mit wasser geben und 20 Minuten einweichen. Die Pilze aus dem Wasser nehmen und fein hacken.
-- Die Cremini-Pilze in scheiben schneiden und in wenig Olivenoel anbraten und beiseite stellen.
-- Lauch und Zwiebel fein hacken  und mit gehackten Steinpilze in den Topf geben. Mit Olivenoel duensten.
-- Den Reis hinzufügen und 2-3 Minuten braten, bis er zu rösten beginnt.
-- Mit der Bruehe den Risotto kochen
-- Die Hitze auf niedrige Stufe stellen. Den Creminit-Pilze und Taleggio-Käse hinzufügen und unterrühren bis der Käse vollständig geschmolzen ist. 
-- Den Parmesankäse, die gehackte Petersilie und den Zitronensaft hinzufügen. 2-3 Minuten köcheln lassen.
+- Die Steinpilze in eine Schüssel mit dem kochenden Wasser geben und 20 Minuten einweichen. Die Pilze herausnehmen und fein hacken.
+- Die Cremini-Pilze in Scheiben schneiden, in wenig Olivenöl anbraten und beiseitestellen.
+- Lauch und Zwiebel fein hacken und mit den gehackten Steinpilzen in den Topf geben. Mit Olivenöl dünsten.
+- Den Reis hinzufügen und 2–3 Minuten braten, bis er leicht zu rösten beginnt.
+- Mit der Brühe den Risotto kochen.
+- Die Hitze reduzieren, die Cremini-Pilze und den Taleggio-Käse hinzufügen und unterrühren, bis der Käse vollständig geschmolzen ist.
+- Den Parmesan, die gehackte Petersilie und den Zitronensaft hinzufügen und 2–3 Minuten köcheln lassen.
 ---
 
-Habe 100g Taleggio verwendet und das war sehr viel
+Ich habe 100 g Taleggio verwendet, das war sehr viel.
+

@@ -4,17 +4,20 @@ date: 2025-10-09T12:51:00+01:00
 draft: false
 title: "Melanzane alla Parmigiana"
 tags:
-- Italia
+- Italien
 yield: 4
 prepTime: 90
 cookTime: 20
 ingredients:
   - 3 Auberginen
+  - Salz zum Wässern der Auberginen
+  - Olivenöl zum Anbraten
   - 3 Eier
   - 1 kg Tomaten
-  - 250 g Mozzarella
   - 1 Knoblauchzehe
+  - Salz und frisch gemahlener schwarzer Pfeffer, zum Abschmecken
   - 1 Bund Basilikum
+  - 250 g Mozzarella
   - 50 g Pecorino
 
 directions:
@@ -30,4 +33,5 @@ directions:
   - Das Gericht bei ca. 160 °C im vorgeheizten Backofen 20 Minuten backen.
   - Die Parmigiana aus dem Backofen nehmen und mit frisch gemahlenem schwarzem Pfeffer würzen sowie noch etwas Pecorino darüberhobeln. Das Gericht vor dem Servieren leicht abkühlen lassen.
 ---
+
 
