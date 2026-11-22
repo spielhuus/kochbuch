@@ -8,14 +8,23 @@ title: "{{ replace .File.ContentBaseName "-" " " | title }}"
 # name (gyoza.md -> gyoza.jpg); a missing image falls back to the placeholder
 # plate and warns at build time.
 
-# Optional: set a plain slug when the file name contains non-ASCII characters,
-# e.g. koettbullar.md for the title "Köttbullar".
+# Use ASCII only in the file name (koettbullar.md, never koettbullar.md), so the
+# slug, the URL and the photo name all stay plain. Set `slug` only to repair an
+# existing non-ASCII file: koettbullar.md has no slug and no matching photo, so
+# it renders the placeholder plate today.
 # slug: "koettbullar"
 
+# Optional escape hatch, used only when the photo cannot be renamed: an explicit
+# param beats the slug lookup (partials/recipe-image.html, priority 1). Extension
+# optional.
+# image: "carbonara.jpg"
+
 # Tags are optional. Use real values only: an empty tag generates an empty term
-# page. Match the existing spelling of a country ("Italia", "Schweiz", "Japan").
+# page. Tags are free text and the term URL is the lowercased tag, so reuse the
+# spelling already in the corpus: Italien (not Italia / Italy), Schweiz, Schweden.
+# Add a new value only for a genuinely new axis.
 # tags:
-#   - Italia
+#   - Italien
 
 # Ingredients: a plain list,
 ingredients:
@@ -39,6 +48,7 @@ directions:
 - "Step 2"
 ---
 
-A brief description of the recipe goes here. This body content is rendered
-below the ingredients and directions.
+Eine kurze Beschreibung des Rezepts steht hier. Dieser Text erscheint unter den
+Zutaten und der Zubereitung.
+
 

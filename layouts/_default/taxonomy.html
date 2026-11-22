@@ -3,12 +3,8 @@ Taxonomy overview page (e.g. /tags/): same layout as the index page - gallery
 grid of cards, page content in the centred container, paginator.
 
 The cards are taxonomy term pages, which own no image of their own;
-_partials/gallery-card.html illustrates each term with the thumbnail of its
+partials/gallery-card.html illustrates each term with the thumbnail of its
 first recipe.
-
-NOTE: this must live in _default/. The legacy name `layouts/taxonomy.html`
-(pre v0.55) is ignored by modern Hugo, which then falls back to its built-in
-template (plain <h1> + <h2> link list).
 */ -}}
 {{ define "main" }}
 <div class="image-gallery">
@@ -17,11 +13,13 @@ template (plain <h1> + <h2> link list).
 <div class="container mt4 mb4">
   <div class="sm-col-6 mx-auto px3 sm-px4">
     {{/* No <h1> here: the taxonomy name now lives in the site header
-        ("kochbuch :: Tags", see _partials/header.html). */}}
+        ("kochbuch :: Tags", see partials/header.html). */}}
     {{ .Content }}
   </div>
 </div>
 {{ partial "paginator.html" . }}
 {{ end }}
+
+
 
 

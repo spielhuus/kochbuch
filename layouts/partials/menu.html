@@ -1,0 +1,56 @@
+{{- /*
+Renders a menu for the given menu ID.
+
+@context {page} page The current page.
+@context {string} menuID The menu ID.
+
+@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+*/}}
+
+{{- $page := .page }}
+{{- $menuID := .menuID }}
+
+{{- /* Flat menu: a plain range, no inline partial.
+     The upstream version of this partial recursed through
+     partial "inline/menu/walk.html", an inline partial whose registered name is
+     namespaced by the directory holding the defining file - it used to be
+     "_partials/inline/menu/walk.html" and the move to layouts/partials/ left the
+     define unqualified, so Hugo 1.0 aborted the whole build with
+     `partial "inline/menu/walk.html" not found`. site.Menus.main has no
+     .Children, so the recursion bought nothing. To restore nesting (Hugo >=
+     0.148), define the walk as "partials/inline/menu/walk.html" here - the
+     "partials/" prefix is the lookup key - and call it as
+     partial "inline/menu/walk.html". */ -}}
+{{- with index site.Menus $menuID }}
+  <nav>
+    <ul>
+      {{- range . }}
+        {{- $attrs := dict "href" .URL }}
+        {{- if $page.IsMenuCurrent .Menu . }}
+          {{- $attrs = merge $attrs (dict "class" "active" "aria-current" "page") }}
+        {{- else if $page.HasMenuCurrent .Menu . }}
+          {{- $attrs = merge $attrs (dict "class" "ancestor" "aria-current" "true") }}
+        {{- end }}
+        {{- $name := .Name }}
+        {{- with .Identifier }}
+          {{- with T . }}
+            {{- $name = . }}
+          {{- end }}
+        {{- end }}
+        <li>
+          <a
+            {{- range $k, $v := $attrs }}
+              {{- with $v }}
+                {{- printf " %s=%q" $k $v | safeHTMLAttr }}
+              {{- end }}
+            {{- end -}}
+          >{{ $name }}</a>
+        </li>
+      {{- end }}
+    </ul>
+  </nav>
+{{- end }}
+
+{{- /* removed: the "inline/menu/walk.html" inline partial, see the comment above */ -}}
+
+

@@ -6,6 +6,28 @@ title = 'kochbuch'
 pagination.pagerSize = 9 
 pagination.path = "page"
 
+# Header navigation, rendered by header.html via
+#   partial "menu.html" (dict "menuID" "main" "page" .)
+# pageRef targets are resolved by Hugo, so the GitHub Pages base path and the
+# /dev/ sub-path from the deploy workflow both work with no hard-coded URLs.
+# No "Home" entry: the logo in header.html already links to site.Home.
+[[menus.main]]
+  pageRef = "/recipes"
+  name = "Rezepte"
+  weight = 10
+
+[[menus.main]]
+  pageRef = "/tags"
+  name = "Schlagwörter"
+  weight = 20
+
+# Relative url => Hugo prefixes baseURL, so the feed link stays correct in the
+# /dev/ build too.
+[[menus.main]]
+  name = "RSS"
+  url = "/index.xml"
+  weight = 30
+
 
 # [[module.mounts]]
 #   source = "assets"
@@ -35,3 +57,4 @@ pagination.path = "page"
 #     lineNumbersInTable = true
 #     noClasses = false
 #     tabWidth = 4
+

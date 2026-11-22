@@ -1,6 +1,6 @@
 {{- /*
-Single content page (a recipe). Moved verbatim from the legacy root file
-`layouts/page.html`, which modern Hugo ignores.
+Single content page (a recipe): hero image, ingredients / directions
+columns, body, tags.
 */ -}}
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
@@ -66,4 +66,5 @@ Single content page (a recipe). Moved verbatim from the legacy root file
   {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
+
 
