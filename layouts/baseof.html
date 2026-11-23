@@ -8,7 +8,10 @@
     {{ partial "header.html" . }}
   </header>
   <main class="content">
-    {{ block "main" . }}{{ end }}
+    {{ partial "search-results.html" . }}
+    <div data-page-content>
+      {{ block "main" . }}{{ end }}
+    </div>
   </main>
   <footer>
     {{ partial "footer.html" . }}

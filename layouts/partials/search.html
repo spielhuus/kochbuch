@@ -1,0 +1,35 @@
+{{- /*
+Search widget: one input plus a client-side result grid.
+
+The index is the JSON home output (/index.json); the json output format of
+site.Home gives its URL, so the /dev/ sub-path and the GitHub Pages base path
+stay correct. assets/js/search.js downloads it once and filters it in the
+browser.
+
+The form is a plain GET with name="q": without JS it degrades to a reload with
+the query in the URL, with JS the same URL is shareable and deep-linkable.
+
+@context {page} page The page to render on (home, /recipes/, taxonomy pages).
+@example: {{ partial "search.html" . }}
+*/ -}}
+{{- with .Site.Home.OutputFormats.Get "json" -}}
+<form class="search" role="search" method="get" action="{{ $.Site.Home.RelPermalink }}"
+      data-search data-index="{{ .RelPermalink }}">
+  <label class="search-label" for="search-q">Rezepte durchsuchen</label>
+  <input class="search-input" data-search-input id="search-q" name="q" type="search"
+         placeholder="Titel, Zutat, Schlagwort …" autocomplete="off" spellcheck="false">
+  <p class="search-status" data-search-status role="status" aria-live="polite"></p>
+  <div class="image-gallery search-results" data-search-results hidden></div>
+  <noscript>
+    <p class="search-status">
+      Die Suche braucht JavaScript - der Index liegt unter
+      <a href="{{ .RelPermalink }}">index.json</a>, die Rezeptliste steht unten.
+    </p>
+  </noscript>
+</form>
+{{- end -}}
+{{- with resources.Get "js/search.js" -}}
+  {{- $js := . | minify | fingerprint -}}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+{{- end -}}
+

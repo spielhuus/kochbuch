@@ -1,0 +1,25 @@
+{{- /*
+JSON-escapes text for layouts/index.json: quotes a single value, renders slices
+as JSON arrays.
+
+@context {dict} context "value" string | slice to render; "array" force array output.
+@example: {{ partial "json-string.html" (dict "value" .Params.tags "array" true) }}
+*/ -}}
+{{- $value := .value -}}
+{{- $isList := reflect.IsSlice $value -}}
+{{- $list := cond $isList $value (slice $value) -}}
+{{- $out := slice -}}
+{{- range $item := $list -}}
+  {{- $s := printf "%s" $item -}}
+  {{- $out = $out | append ($s | jsonify) -}}
+{{- end -}}
+{{- if not $out -}}
+  {{- if $isList -}}
+    {{- return "[]" -}}
+  {{- end -}}
+  {{- return "\"\"" -}}
+{{- end -}}
+{{- if .array -}}
+  {{- return printf "[%s]" (delimit $out ", ") -}}
+{{- end -}}
+{{- return index $out 0 -}}

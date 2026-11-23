@@ -8,6 +8,14 @@ tags:
 
 ingredients:
 -
+  heading: "Für den Kartoffelstock"
+  items:
+    - 1 kg mehligkochende Kartoffeln, geschält, in Stücken
+    - 2 dl	Milch
+    - 30 g	Butter
+    - 1 TL	Salz
+    - Muskatnuss
+-
   heading: "Für die Fleischbällchen"
   items:
     - "80 g frisches Weißbrot, ohne Rinde, in ca. 1,5 cm große Stücke geschnitten"
@@ -32,13 +40,15 @@ ingredients:
     - "Butterglasierte, gekochte festkochende Kartoffeln und Preiselbeermarmelade zum Servieren (optional)"
 
 directions:
-- "In einer mittleren Schüssel das Brot mit der Milch vermengen und wenden, bis es gleichmäßig benetzt ist. Etwa 10 Minuten stehen lassen, bis das Brot vollständig aufgeweicht ist und den Großteil der Milch aufgesaugt hat."
-- "In der Zwischenzeit in einer kleinen Pfanne 2 EL (30 g) Butter bei mittlerer bis hoher Hitze schmelzen. Die Hälfte der gehackten Zwiebel hinzufügen und unter Rühren braten, bis die Zwiebel goldbraun und weich ist (ca. 7 Minuten)."
-- "In einer Küchenmaschine mit Rühraufsatz (oder einer normalen Küchenmaschine) das Rinderhackfleisch, Schweinehackfleisch, das eingeweichte Brot mit der restlichen Milch, die gebratene Zwiebel, die rohe Zwiebel, 4 TL Salz, die Eier, den weißen Pfeffer und den Piment vermengen. Die Mischung beginnend auf niedriger Stufe und dann auf mittel-hoher Stufe schlagen, bis alle Zutaten gründlich kombiniert sind (ca. 30 Sekunden bis 1 Minute)."
-- "Ein Backblech mit Backpapier auslegen. Die Hände bei Bedarf in Wasser tauchen, damit die Fleischmischung nicht klebt, und aus der Masse etwa esslöffelgroße Portionen zu Kugeln formen, die etwas kleiner als ein Golfball sind. Auf das vorbereitete Backblech legen."
-- "Ein Gitter über einem sauberen Backblech platzieren und den Ofen auf 90 °C vorheizen. In einer breiten Pfanne etwa 1,5 cm Öl auf 177 °C erhitzen. Die Fleischbällchen portionsweise in das Öl geben und unter Wenden etwa 2 Minuten frittieren, bis sie rundherum gut gebräunt sind. Die gebräunten Fleischbällchen auf das Gitter übertragen und im Ofen warmhalten."
-- "In einem mittelgroßen Topf die verbleibenden 3 EL (45 g) Butter bei mittlerer bis hoher Hitze schmelzen, bis sie schäumt. Das Mehl einrühren und unter Rühren etwa 3 Minuten kochen, bis der rohe Mehlgeruch verschwunden ist. Die Hühnerbrühe einrühren, aufkochen lassen, die Hitze reduzieren und ca. 3 Minuten köcheln lassen, bis die Soße eindickt. Sojasoße und Apfelessig einrühren. Mit Salz und weißem Pfeffer abschmecken."
-- "Die Fleischbällchen zur Soße geben und unter Rühren darin wenden. Köcheln lassen, bis die Fleischbällchen vollständig durchgewärmt sind. Sofort mit butterglasierten Kartoffeln und Preiselbeermarmelade servieren oder als Vorspeise mit Zahnstochern servieren."
+- Kartoffeln in Salzwasser ca. 20-25 Minuten weichkochen. Abgiessen und vollständig abtropfen lassen.
+- Milch, Butter und Salz in die noch heisse Pfanne geben, bei kleiner Temperatur warmhalten. Kartoffeln durch eine Presse oder das Passe-vite treiben oder mit einem Stampfer fein zerdrücken. Kräftig mit der Milch-Buttermischung verrühren, abschmecken. Bei Bedarf noch etwas Milch beigeben.
+- In einer mittleren Schüssel das Brot mit der Milch vermengen und wenden, bis es gleichmäßig benetzt ist. Etwa 10 Minuten stehen lassen, bis das Brot vollständig aufgeweicht ist und den Großteil der Milch aufgesaugt hat.
+- In der Zwischenzeit in einer kleinen Pfanne 2 EL (30 g) Butter bei mittlerer bis hoher Hitze schmelzen. Die Hälfte der gehackten Zwiebel hinzufügen und unter Rühren braten, bis die Zwiebel goldbraun und weich ist (ca. 7 Minuten).
+- In einer Küchenmaschine mit Rühraufsatz (oder einer normalen Küchenmaschine) das Rinderhackfleisch, Schweinehackfleisch, das eingeweichte Brot mit der restlichen Milch, die gebratene Zwiebel, die rohe Zwiebel, 4 TL Salz, die Eier, den weißen Pfeffer und den Piment vermengen. Die Mischung beginnend auf niedriger Stufe und dann auf mittel-hoher Stufe schlagen, bis alle Zutaten gründlich kombiniert sind (ca. 30 Sekunden bis 1 Minute).
+- Ein Backblech mit Backpapier auslegen. Die Hände bei Bedarf in Wasser tauchen, damit die Fleischmischung nicht klebt, und aus der Masse etwa esslöffelgroße Portionen zu Kugeln formen, die etwas kleiner als ein Golfball sind. Auf das vorbereitete Backblech legen.
+- Ein Gitter über einem sauberen Backblech platzieren und den Ofen auf 90 °C vorheizen. In einer breiten Pfanne etwa 1,5 cm Öl auf 177 °C erhitzen. Die Fleischbällchen portionsweise in das Öl geben und unter Wenden etwa 2 Minuten frittieren, bis sie rundherum gut gebräunt sind. Die gebräunten Fleischbällchen auf das Gitter übertragen und im Ofen warmhalten.
+- In einem mittelgroßen Topf die verbleibenden 3 EL (45 g) Butter bei mittlerer bis hoher Hitze schmelzen, bis sie schäumt. Das Mehl einrühren und unter Rühren etwa 3 Minuten kochen, bis der rohe Mehlgeruch verschwunden ist. Die Hühnerbrühe einrühren, aufkochen lassen, die Hitze reduzieren und ca. 3 Minuten köcheln lassen, bis die Soße eindickt. Sojasoße und Apfelessig einrühren. Mit Salz und weißem Pfeffer abschmecken.
+- Die Fleischbällchen zur Soße geben und unter Rühren darin wenden. Köcheln lassen, bis die Fleischbällchen vollständig durchgewärmt sind. Sofort mit butterglasierten Kartoffeln und Preiselbeermarmelade servieren oder als Vorspeise mit Zahnstochern servieren.
 ---
 
 Schwedische Fleischbällchen (Köttbullar) sind ein absoluter Klassiker der schwedischen Küche. Diese Version bietet saftige, zarte Fleischbällchen aus einer ausgewogenen Mischung von Rind- und Schweinehackfleisch, die in einer reichhaltigen, cremigen Soße geschmort werden. Perfekt serviert mit klassischen Beilagen wie butterglasierten Kartoffeln und einem Klecks Preiselbeermarmelade für den authentischen Geschmack Skandinaviens.

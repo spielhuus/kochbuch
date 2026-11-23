@@ -110,6 +110,44 @@ body {
   display: block;
 }
 
+.search { margin: 0.5rem 0 1.5rem; }
+
+.search-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.6rem 0.8rem;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  background: var(--paper-white);
+  border: 1px solid var(--blue);
+  border-radius: 2px;
+  appearance: none;
+}
+
+.search-input:focus-visible {
+  outline: 2px solid var(--pink);
+  outline-offset: 1px;
+}
+
+.search-status {
+  min-height: 1.4em;
+  margin: 0.5rem 0 1rem;
+  font-size: 0.9rem;
+
+  &:empty {
+    display: none;
+  }
+}
+
+.search-results { margin-bottom: 1.5rem; }
+
 @media (max-width: 800px) {
   .gallery-item {
     flex-basis: 50%;
@@ -150,8 +188,8 @@ body {
   padding-bottom: 0.5rem;
 }
 
-.content {
-  overflow-wrap: break-word;
+.content,
+.content > [data-page-content] {
   grid-column: 1 / -1;
   display: grid;
   grid-template-columns: 1fr min(800px, calc(100% - 2rem)) 1fr;
@@ -168,9 +206,14 @@ body {
     margin-left: auto;
     margin-right: auto;
   }
+
   > .image-gallery {
-  grid-column: 1 / -1; /* This makes the gallery span all columns */
+    grid-column: 1 / -1; /* This makes the gallery span all columns */
   }
+}
+
+.content {
+  overflow-wrap: break-word;
 }
 
 .draft-ribbon {
@@ -197,12 +240,17 @@ footer {
 }
 
 header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem 1rem;
+
   > h1 {
-    margin: 1em 0 0 0.5em;
+    margin: 0;
     padding: 0;
-    flex-basis: 50%;
     position: relative;
     z-index: 10;
+    white-space: nowrap;
 
     &::before {
       content: none;
@@ -242,11 +290,11 @@ header {
      menu.html marks the current page with class="active" ("ancestor" for
      parents) plus aria-current, so the active state below is data-driven. */
   nav {
-    margin: 0.25em 0 0 0.5em;
+    margin: 0 0 0 auto;
 
     ul {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       gap: 0.25em 1em;
       margin: 0;
       padding: 0;
@@ -258,6 +306,7 @@ header {
       padding: 0.2em 0.4em;
       text-decoration: none;
       color: var(--blue);
+      white-space: nowrap;
 
       &:hover {
         color: var(--lightblue);
@@ -270,12 +319,34 @@ header {
       border-bottom: 2px solid var(--orange);
     }
   }
+
+  .search {
+    margin: 0;
+    flex: 0 1 14rem;
+  }
 }
 
 .footer {
   margin: 4em 0 2em;
   text-align: center;
 }
+
+[hidden] {
+  display: none !important;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
 /* The zig-zag arrow motif (.arrow, header > .arrows, footer > .arrows) lived
    here fully commented out while header.html and footer.html kept emitting 10
    unstyled <div class="arrow …"> per page. Markup and --arrow-* / --grid-*
@@ -305,9 +376,3 @@ header {
   width: 48px;
   height: 47px;
 }
-
-
-
-
-
-

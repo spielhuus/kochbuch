@@ -1,0 +1,40 @@
+{{- /*
+JSON search index, published as /index.json by the "json" home output declared
+in hugo.toml. layouts/partials/search.html + assets/js/search.js fetch it and
+filter it in the browser, so search needs no server and no third party.
+
+Each entry carries what a gallery card needs (title, url, thumb) plus
+everything worth searching. Recipe text lives in the front matter, so "body" is
+searched too but is usually empty: ingredients, directions, tags and cuisine are
+the real haystack.
+
+If Hugo ever stops picking this file up for the json output, name it
+layouts/index.json.json: the lookup key is <name>.<format>.<extension>.
+*/ -}}
+{{- $entries := slice -}}
+{{- range $p := where site.RegularPages "Type" "recipes" -}}
+  {{- $thumb := "" -}}
+  {{- with partial "recipe-image.html" $p -}}
+    {{- /* Same 400x thumb the gallery card uses, so no extra image is built. */ -}}
+    {{- $thumb = (.Resize "400x").RelPermalink -}}
+  {{- end -}}
+  {{- $entries = $entries | append (printf "{\"title\":%s,\"url\":%s,\"thumb\":%s,\"tags\":%s,\"cuisine\":%s,\"ingredients\":%s,\"directions\":%s,\"body\":%s}"
+    (partial "json-string.html" (dict "value" $p.LinkTitle))
+    (partial "json-string.html" (dict "value" $p.RelPermalink))
+    (partial "json-string.html" (dict "value" $thumb))
+    (partial "json-string.html" (dict "value" ($p.Params.tags | default slice) "array" true))
+    (partial "json-string.html" (dict "value" ($p.Params.cuisine | default slice) "array" true))
+    (partial "json-string.html" (dict "value" ($p.Params.ingredients | default slice) "array" true))
+    (partial "json-string.html" (dict "value" ($p.Params.directions | default slice) "array" true))
+    (partial "json-string.html" (dict "value" (strings.TrimSpace $p.Plain)))
+  ) -}}
+{{- end -}}
+{
+  "generated": {{ now.Format "2006-01-02" | jsonify }},
+  "recipes": [
+    {{- range $i, $entry := $entries }}
+      {{- if $i }},{{ end }}
+      {{- $entry }}
+    {{- end }}
+  ]
+}

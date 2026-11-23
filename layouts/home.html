@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="image-gallery">
+<div class="image-gallery" data-static-gallery>
   {{ partial "items.html" . }}
 </div>
 <div class="container mt4 mb4">
@@ -9,4 +9,5 @@
 </div>
 {{ partial "paginator.html" . }}
 {{ end }}
+
 

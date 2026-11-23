@@ -8,9 +8,8 @@ tags:
   - "Teigtaschen"
 
 ingredients:
-- "500 g fein gehackter Chinakohl (etwa ein halber mittlerer Kopf)"
-- "1 EL grobes Salz, aufgeteilt"
-- "500 g gewolftes Schweineschulterfleisch"
+- 500 g Chinakohl (etwa ein halber mittlerer Kopf)
+- 500 g gehacktes gemischtes hackfleisch
 - "1 TL weißer Pfeffer"
 - "1 EL frisch gehackter Knoblauch (etwa 3 mittlere Zehen)"
 - "1 TL frisch gehackter Ingwer"
@@ -21,8 +20,14 @@ ingredients:
 - "60 ml Sojasauce (für die Dip-Sauce)"
 - "120 ml Reisessig (für die Dip-Sauce)"
 - "2 EL Chiliöl (optional, für die Dip-Sauce)"
+- Salz
 
 directions:
+- den chinakohl in feine streiffen schneiden und salzen. ca 1 stunde stehen lassen
+- den teig zubereiten
+
+
+
 - "Für die Füllung: Den Chinakohl mit 2 TL des Salzes in einer großen Schüssel vermengen. In ein feines Sieb geben und über einer Schüssel 15 Minuten bei Raumtemperatur stehen lassen, damit er Wasser zieht."
 - "Den Kohl in die Mitte eines sauberen Küchentuchs geben und die Ecken zusammendrehen. Den Kohl kräftig auswringen, um so viel Feuchtigkeit wie möglich zu entfernen. Die Flüssigkeit wegwerfen."
 - "Das gewolfte Schweinefleisch, den abgetropften Kohl, das restliche Salz, weißen Pfeffer, Knoblauch, Ingwer, Frühlingszwiebeln und Zucker in einer großen Schüssel vermengen. Mit sauberen Händen so lange kneten und wenden, bis die Masse homogen ist und sich leicht klebrig anfühlt."

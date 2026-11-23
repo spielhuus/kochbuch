@@ -1,0 +1,12 @@
+{{- with .Site.Home.OutputFormats.Get "json" -}}
+<form class="search" role="search" method="get" action="{{ $.Site.Home.RelPermalink }}"
+      data-search data-index="{{ .RelPermalink }}">
+  <label class="search-label visually-hidden" for="search-q">Rezepte durchsuchen</label>
+  <input class="search-input" data-search-input id="search-q" name="q" type="search"
+         placeholder="Rezepte suchen …" autocomplete="off" spellcheck="false">
+</form>
+{{- end -}}
+{{- with resources.Get "js/search.js" -}}
+  {{- $js := . | minify | fingerprint -}}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+{{- end -}}

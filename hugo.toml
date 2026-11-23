@@ -6,6 +6,15 @@ title = 'kochbuch'
 pagination.pagerSize = 9 
 pagination.path = "page"
 
+# Recipe search: next to the HTML page, the home page also publishes a JSON
+# index of every recipe (/index.json, templated by layouts/index.json).
+# assets/js/search.js fetches that file and filters it in the browser, so the
+# site stays a plain static build - nothing server-side is needed.
+# "rss" is repeated here on purpose: an [outputs] block replaces Hugo's
+# defaults, and the RSS entry in menus.main needs it.
+[outputs]
+  home = ["html", "rss", "json"]
+
 # Header navigation, rendered by header.html via
 #   partial "menu.html" (dict "menuID" "main" "page" .)
 # pageRef targets are resolved by Hugo, so the GitHub Pages base path and the
@@ -21,8 +30,8 @@ pagination.path = "page"
   name = "Schlagwörter"
   weight = 20
 
-# Relative url => Hugo prefixes baseURL, so the feed link stays correct in the
-# /dev/ build too.
+# Relative url => Hugo prefixes baseURL, so the feed link and the JSON search
+# index stay correct in the /dev/ build too.
 [[menus.main]]
   name = "RSS"
   url = "/index.xml"
@@ -57,4 +66,5 @@ pagination.path = "page"
 #     lineNumbersInTable = true
 #     noClasses = false
 #     tabWidth = 4
+
 
