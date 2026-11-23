@@ -1,6 +1,6 @@
 {{- /*
-Single content page (a recipe): hero image, ingredients / directions
-columns, body, tags.
+Single content page (a recipe): hero image, body, ingredients / directions
+columns, tags.
 */ -}}
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
@@ -19,6 +19,8 @@ columns, body, tags.
         alt="A photo for the page: {{ $.Page.Title }}">
     {{ end }}
   </div>
+
+  {{ .Content }}
 
   <div class="recipe-layout">
     <div id="ingredients">
@@ -63,8 +65,8 @@ columns, body, tags.
     </div>
   </div>
 
-  {{ .Content }}
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}
+
 
 

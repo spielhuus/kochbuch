@@ -48,7 +48,8 @@ directions:
 - "Step 2"
 ---
 
-Eine kurze Beschreibung des Rezepts steht hier. Dieser Text erscheint unter den
+Eine kurze Beschreibung des Rezepts steht hier. Dieser Text erscheint über den
 Zutaten und der Zubereitung.
+
 
 

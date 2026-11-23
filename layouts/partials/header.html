@@ -1,7 +1,6 @@
 {{- $isTaxonomy := or (eq .Kind "taxonomy") (eq .Kind "term") }}
 {{- $name := .Data.Plural }}
 {{- with .Data.Term }}{{ $name = . }}{{ end }}
-{{ partial "search-form.html" . }}
 <h1>
   <a href="{{ .Site.Home.RelPermalink }}" id="logo">{{ site.Title }}</a>
   {{- if $isTaxonomy }}
@@ -9,4 +8,6 @@
     <span class="path-term"{{ if eq .Kind "term" }} aria-current="page"{{ end }}>{{ $name | title }}</span>
   {{- end }}
 </h1>
+{{ partial "search-form.html" . }}
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+
